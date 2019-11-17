@@ -8,7 +8,9 @@ Be clear and concise in your writing. Bullets points are acceptable.
 ## Client Description (Milestone 1)
 > Tell us about your client. Who is your client? What kind of website do they want? What are their key goals?
 
+Our client is Amber Dance Troupe, founded in 2003. This is performing group that focuses on promoting Chinese tradition folk dance, contemporary dance, and jazz. The hold workshops every week, perform across campus, and hold annual showcase.
 
+They want an informative website, and they also want to include recruitement information. They want a website that is welcoming for target audience, and they want to promote the club as well as its cultural influence. Further details are included in the purpose section.
 
 > NOTE: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** Tell us how you plan to update the site in a significant way that meets the Project 4 requirements.
 
@@ -16,23 +18,109 @@ Be clear and concise in your writing. Bullets points are acceptable.
 ## Site's Purpose (Milestone 1)
 > Tell us the purpose of the website and what it is all about.
 
+We are making a website for Amber Dance Troupe (focusing on Chinese tradition/folk dance, contemporary dance, and jazz), and this cite will be an informative presentation of the club; it should also contain information/form for E-Members, G-Members to look over and interact wth.
+
+Our client's target audience is female Cornellians who are committed to dancing. But our clients expect all these types of people to vist the site:
+  1. dancers who are interested in Amber specifically
+  2. people who have heard about the club but are looking for more information about the club
+  3. club member to look up for workshop information, application/order forms, etc.
+  4. Cornell administration to ensure that the club is actually holding events
+  5. Other performing art clubs that are looking for collaboration
+
+Here are some pages/information that our client expects to see:
+  - information about club history
+  - infrmation about current workshops
+  - E-board introduction and recruitment info
+  - intructors introduction
+  - annual showcase information
+  - event page: performance schedule + social events
+  - order form for club members (to collect information about costume size)
+  - club contact info
+
 
 ## Client Meeting Notes (Milestone 1)
 > Include your notes/minutes from the client meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting.
 
+![note 1](image/note1.jpg)
+
+![note 2](image/note2.jpg)
+
+![note 3](image/note3.jpg)
 
 ## Client Needs and Wants (Milestone 1)
 > Collect your client's needs and wants for the website. Come up with several appropriate design ideas on how those needs may be met. In the **Memo** field, justify your ideas and add any additional comments you have. There is no specific number of needs required for this, but you need enough to do the job.
 
-Needs/Wants: [Brief Title]
+Needs/Wants: Color Scheme
 - **Needs and Wants** [What does your client need and want?]
-  - TODO
+  - Color scheme matches the club's color
 - **Design Ideas and Choices** [How will you meet those needs and wants?]
-  - TODO
+  - Use a bluish green (e.g. #49989c ) and white as part of design
 - **Memo** [Justify your decisions; additional notes.]
-  - TODO
+  - N/A
 
-Need/Want: ...
+Needs/Wants: Club History & interaction element
+- **Needs and Wants**
+  - The club was founded in 2003, and it has a very rich history. Our client values it, and wants to make sure that club history is on the site.
+- **Design Ideas and Choices**
+  - Create a page on club history
+  - Have a photo gallery for past performances
+- **Memo**
+  - N/A
+
+Needs/Wants: Workshops and Instructors Information
+- **Needs and Wants**
+  - Workshop is a big part of the club's activities, and my client expects many people to look for workshop and Instructors information together: people who are interested in the club, club memebers, other performing arts clubs, etc.
+  - Because the club hosts 3 or 4 workshops per week, there will a big list of workshops. So, my client expects that we can sort worshops by the type of dance (tradition dance, contemporary dance, jazz).
+- **Design Ideas and Choices**
+  - Create a page on workshops and corresponding Instructors
+  - allow sorting
+  - Make sure this information is easy to navigate to on the front page
+- **Memo**
+  - N/A
+
+Needs/Wants: Events
+- **Needs and Wants**
+  - The club is always invited by many other orgnizations, and the our client wants to show their performance schedule on their site
+  - The club hosts one formal and one semi-formal event every semester; this will be for club members only
+- **Design Ideas and Choices**
+  - Create a page on performance schedule; maybe make this page interactive and can update based on the date of access (the client says we don't have to do this)
+  - Create a page on social event, talk about dates and location
+- **Memo**
+  - N/A
+
+Needs/Wants: Contact
+- **Needs and Wants**
+  - Our client wants to make sure that people who are interested in the club (to join or to collaborate) can contact the club
+- **Design Ideas and Choices**
+  - We can either create a page for contact info, or (according to the client's suggestion) we can put contact info in the footer
+- **Memo**
+  - N/A
+
+Needs/Wants: Eboard Member and Recruitment & interactive element
+- **Needs and Wants**
+  - This page will be for current club members, and this page should be interactive so that members can submit application
+- **Design Ideas and Choices**
+  - Create a page that introduces current Eboard
+  - Add a form at the end of the page for application
+- **Memo**
+  - N/A
+
+Needs/Wants: Annual Showcase
+- **Needs and Wants**
+  - The club holds an annual showcase at the end of spring semester. This is a big event for the club.
+- **Design Ideas and Choices**
+  - Create a page on annual showcase information
+- **Memo**
+  - N/A
+
+Needs/Wants: Costume Order Form & interactive element
+- **Needs and Wants**
+  - Because the club need to order costume for members who are part of a dance performance, so it is important for the club to collect information on the costume size of each dancer.
+- **Design Ideas and Choices**
+  - Create a page for order page, and the page will be a form.
+- **Memo**
+  - N/A
+
 
 
 ## User(s) (Milestone 1)
