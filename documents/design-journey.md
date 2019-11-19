@@ -130,7 +130,24 @@ Needs/Wants: Costume Order Form & interactive element
 ## Discovering Users' Needs (Milestone 1)
 > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
 
-![clum member interview](image/interview_clubmember.jpg)
+![club member interview](image/interview_clubmember.jpg)
+
+Interview with potential collaborator:
+Member of jazz group
+Has collaborated with other groups before
+
+How did your group contact the other groups you have collaborated with?
+- They have usually known someone in the group, and talked with that person about collaborating
+- This talking was usually done over phone or in a group chat
+
+What about these other groups convinced you to collaborate with them?
+- Again, they knew people from the other groups, and thought it would be fun to collaborate with them
+- They saw that they liked the other groups work and like it
+- They thought they would work well together
+
+What kind of information would be helpful to get together with a group you might want to collaborate with?
+- Contact information, cellphone number or email
+- general information about the group, when they meet, what kind of work they do, the general work attitude they have
 
 ## Users' Needs (Milestone 1)
 > Analyze the users' needs and wants from your notes above. List each need/want below. There is no specific number of needs required for this, but you need enough to do the job.
