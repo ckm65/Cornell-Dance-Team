@@ -10,7 +10,7 @@ Be clear and concise in your writing. Bullets points are acceptable.
 
 Our client is Amber Dance Troupe, founded in 2003. This is performing group that focuses on promoting Chinese tradition folk dance, contemporary dance, and jazz. The hold workshops every week, perform across campus, and hold annual showcase.
 
-They want an informative website, and they also want to include recruitement information. They want a website that is welcoming for target audience, and they want to promote the club as well as its cultural influence. Further details are included in the purpose section.
+They want an informative website, and they also want to include recruitment information. They want a website that is welcoming for target audience, and they want to promote the club as well as its cultural influence. Further details are included in the purpose section.
 
 > NOTE: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** Tell us how you plan to update the site in a significant way that meets the Project 4 requirements.
 
@@ -29,13 +29,14 @@ Our client's target audience is female Cornellians who are committed to dancing.
 
 Here are some pages/information that our client expects to see:
   - information about club history
-  - infrmation about current workshops
+  - information about current workshops
   - E-board introduction and recruitment info
-  - intructors introduction
+  - instructors introduction
   - annual showcase information
   - event page: performance schedule + social events
   - order form for club members (to collect information about costume size)
   - club contact info
+  - photo gallery
 
 
 ## Client Meeting Notes (Milestone 1)
@@ -69,8 +70,8 @@ Needs/Wants: Club History & interaction element
 
 Needs/Wants: Workshops and Instructors Information
 - **Needs and Wants**
-  - Workshop is a big part of the club's activities, and my client expects many people to look for workshop and Instructors information together: people who are interested in the club, club memebers, other performing arts clubs, etc.
-  - Because the club hosts 3 or 4 workshops per week, there will a big list of workshops. So, my client expects that we can sort worshops by the type of dance (tradition dance, contemporary dance, jazz).
+  - Workshop is a big part of the club's activities, and my client expects many people to look for workshop and Instructors information together: people who are interested in the club, club members, other performing arts clubs, etc.
+  - Because the club hosts 3 or 4 workshops per week, there will a big list of workshops. So, my client expects that we can sort workshops by the type of dance (tradition dance, contemporary dance, jazz).
 - **Design Ideas and Choices**
   - Create a page on workshops and corresponding Instructors
   - allow sorting
@@ -80,7 +81,7 @@ Needs/Wants: Workshops and Instructors Information
 
 Needs/Wants: Events
 - **Needs and Wants**
-  - The club is always invited by many other orgnizations, and the our client wants to show their performance schedule on their site
+  - The club is always invited by many other organizations, and the our client wants to show their performance schedule on their site
   - The club hosts one formal and one semi-formal event every semester; this will be for club members only
 - **Design Ideas and Choices**
   - Create a page on performance schedule; maybe make this page interactive and can update based on the date of access (the client says we don't have to do this)
@@ -122,7 +123,6 @@ Needs/Wants: Costume Order Form & interactive element
   - N/A
 
 
-
 ## User(s) (Milestone 1)
 > Tell us about the users (target audience) for this website.
 
@@ -130,21 +130,40 @@ Needs/Wants: Costume Order Form & interactive element
 ## Discovering Users' Needs (Milestone 1)
 > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
 
+![clum member interview](image/interview_clubmember.jpg)
 
 ## Users' Needs (Milestone 1)
 > Analyze the users' needs and wants from your notes above. List each need/want below. There is no specific number of needs required for this, but you need enough to do the job.
 > **Note:** These are probably *not* the needs of your client.
 
-Need/Want: [Brief Title]
+Need/Want: [Club member - Workshops/sessions]
 - **Needs and Wants** [What do the users need and want?]
-  - TODO
+  - Need to know if a workshop is happening: if it is, when and where
+  - Only look for particualr workshops that one wants to attend
 - **Design Ideas and Choices** [How will you meet those needs and wants?]
-  - TODO
+  - Clearly list the timing and location of every workshop / practice session
+  - Enable sorting of workshops/practice by type
 - **Rationale & Additional Notes** [Justify your decisions; additional notes.]
-  - TODO
+  - N/A
 
-Need/Want: ...
+Need/Want: [Club member - Instructors]
+- **Needs and Wants** [What do the users need and want?]
+  - Do not tend to care too much on this
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+  - Have a page on intructors for those who may be interested, but not combine with workshops
+- **Rationale & Additional Notes** [Justify your decisions; additional notes.]
+  - N/A
 
+Need/Want: [Club member - Event]
+- **Needs and Wants** [What do the users need and want?]
+  - Time for social event is importance
+  - Time, location, and practice workshop for performance is important
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+  - Have a chronological line to show all the events: time and location
+  - use different color for performances and social events
+  - Link the page with workshop/practice page so user can navigate
+- **Rationale & Additional Notes** [Justify your decisions; additional notes.]
+  - N/A
 
 ## User Testing Plan (Milestone 1)
 > Plan out your tasks for evaluating whether your site will meet the needs of the users. These must be actual user testing tasks. Tasks are not questions!
