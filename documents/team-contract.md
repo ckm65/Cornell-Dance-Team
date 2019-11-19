@@ -10,15 +10,18 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 
 1. To what goals do we all commit?
 
+  Finish the project well.
+  Get milestones done on time.
 
 
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
 
+  Do your fair share of the work
 
 
 3. By what means and how frequently will we meet or communicate?
 
-
+  Communicate on group me
 
 4. How will we communicate and work with our client?
 
