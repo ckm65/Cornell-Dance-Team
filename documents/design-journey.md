@@ -182,6 +182,15 @@ Need/Want: [Club member - Event]
 - **Rationale & Additional Notes** [Justify your decisions; additional notes.]
   - N/A
 
+Need/Want: [Non Club member - Collaborator]
+- **Needs and Wants**
+  - Need information about how to contact the group
+  - Information about the type of collaboration the group is interested in working on
+- **Design Ideas and Choices**
+  - A page about collaboration could be made that provides contact information as well as specifics about collaborating with the dance troupe.
+- **Rationale & Additional Notes**
+  - 
+
 ## User Testing Plan (Milestone 1)
 > Plan out your tasks for evaluating whether your site will meet the needs of the users. These must be actual user testing tasks. Tasks are not questions!
 
