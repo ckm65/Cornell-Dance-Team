@@ -130,21 +130,40 @@ Needs/Wants: Costume Order Form & interactive element
 ## Discovering Users' Needs (Milestone 1)
 > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
 
+![clum member interview](image/interview_clubmember.jpg)
 
 ## Users' Needs (Milestone 1)
 > Analyze the users' needs and wants from your notes above. List each need/want below. There is no specific number of needs required for this, but you need enough to do the job.
 > **Note:** These are probably *not* the needs of your client.
 
-Need/Want: [Brief Title]
+Need/Want: [Club member - Workshops/sessions]
 - **Needs and Wants** [What do the users need and want?]
-  - TODO
+  - Need to know if a workshop is happening: if it is, when and where
+  - Only look for particualr workshops that one wants to attend
 - **Design Ideas and Choices** [How will you meet those needs and wants?]
-  - TODO
+  - Clearly list the timing and location of every workshop / practice session
+  - Enable sorting of workshops/practice by type
 - **Rationale & Additional Notes** [Justify your decisions; additional notes.]
-  - TODO
+  - N/A
 
-Need/Want: ...
+Need/Want: [Club member - Instructors]
+- **Needs and Wants** [What do the users need and want?]
+  - Do not tend to care too much on this
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+  - Have a page on intructors for those who may be interested, but not combine with workshops
+- **Rationale & Additional Notes** [Justify your decisions; additional notes.]
+  - N/A
 
+Need/Want: [Club member - Event]
+- **Needs and Wants** [What do the users need and want?]
+  - Time for social event is importance
+  - Time, location, and practice workshop for performance is important
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+  - Have a chronological line to show all the events: time and location
+  - use different color for performances and social events
+  - Link the page with workshop/practice page so user can navigate
+- **Rationale & Additional Notes** [Justify your decisions; additional notes.]
+  - N/A
 
 ## User Testing Plan (Milestone 1)
 > Plan out your tasks for evaluating whether your site will meet the needs of the users. These must be actual user testing tasks. Tasks are not questions!
