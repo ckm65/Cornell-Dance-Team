@@ -10,38 +10,49 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 
 1. To what goals do we all commit?
 
+We agree to contribute equally to the project and dedicate a significant amount of time to each milestone. Our goal is to complete the milestones on time to the best of our ability. Furthermore, our goal is to successfully  complete the needs and wants of our client to the best of our abilities. We want to start early in case we have trouble!
 
 
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
 
+- Everyone makes equal amounts of contributions
+- We inform each other every time someone pushes a document in order to avoid confusion or overlap
+- We communicate daily on the groupme and update each other on our progress.
+- We provide constructive criticism
+- Be creative and have fun!!!
 
 
 3. By what means and how frequently will we meet or communicate?
-
+- Meet every 3 days in person or on video call
+- Communication through groupme group chat daily
+- Let each other know when a change is being made to make sure to pull the document
 
 
 4. How will we communicate and work with our client?
-
+We will communicate with our client through text message and email. We will meet in person with our client at least twice. We will attend the clients workshops and information sessions in order to learn more!
 
 
 5. What roles will we create? Include a description of exactly what each role is responsible for.
 
+Everyone will create their own page, therefore everyone will get exposure to sharpen their current skillset in  HTML, CSS, and Javascript. Also, we will delegate team members to certain key sectors to oversee the project. For example, the coder, the styler, the client connector as well as the design-md writer. The coder will be responsible for the HTML, the styler CSS and the interactions through javascipt. These roles will be delegated by strengths and personal preference but everyone is responsible for helping out on all parts.
 
 
 6. How will we hold ourselves and one another accountable? What (exactly) will we say to a team member who appears not to be contributing equally? To a team member who fails to deliver what was promised?
 
+We plan to complete each milestone Wednesday night and utilize Thursday for any final changes.We plan to hold each other accountable by setting specific timelines for when parts should be completed. Everyone should be responsible for reviewing others code and providing suggestions for improvement.
 
 
 7. What do we do when we disagree? What approach to conflict to we all agree to uphold?
 
+If two people disagree, we will ask the entire group for their opinions for additional ideas/advice. We will create a poll for certain conflicts that arise. We agree to uphold a majority rules approach if conflict arises.
 
 
 8. What are our procedures for re-visiting this contract?
-
-
+If we are having a conflict or if someone is not contributing, we will revist this contract and make necessary changes based on our progress throughout the project.
 
 9. What else do we want to include in this contract? (Think about a *fun* clause... not everything is always about work! Sometimes you need to celebrate your accomplishments!)
 
+We will get ice cream when we complete the final project!
 
 
 ## Using your Contract

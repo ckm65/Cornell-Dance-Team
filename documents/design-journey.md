@@ -10,7 +10,7 @@ Be clear and concise in your writing. Bullets points are acceptable.
 
 Our client is Amber Dance Troupe, founded in 2003. This is performing group that focuses on promoting Chinese tradition folk dance, contemporary dance, and jazz. The hold workshops every week, perform across campus, and hold annual showcase.
 
-They want an informative website, and they also want to include recruitement information. They want a website that is welcoming for target audience, and they want to promote the club as well as its cultural influence. Further details are included in the purpose section.
+They want an informative website, and they also want to include recruitment information. They want a website that is welcoming for target audience, and they want to promote the club as well as its cultural influence. Further details are included in the purpose section.
 
 > NOTE: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** Tell us how you plan to update the site in a significant way that meets the Project 4 requirements.
 
@@ -29,13 +29,14 @@ Our client's target audience is female Cornellians who are committed to dancing.
 
 Here are some pages/information that our client expects to see:
   - information about club history
-  - infrmation about current workshops
+  - information about current workshops
   - E-board introduction and recruitment info
-  - intructors introduction
+  - instructors introduction
   - annual showcase information
   - event page: performance schedule + social events
   - order form for club members (to collect information about costume size)
   - club contact info
+  - photo gallery
 
 
 ## Client Meeting Notes (Milestone 1)
@@ -69,8 +70,8 @@ Needs/Wants: Club History & interaction element
 
 Needs/Wants: Workshops and Instructors Information
 - **Needs and Wants**
-  - Workshop is a big part of the club's activities, and my client expects many people to look for workshop and Instructors information together: people who are interested in the club, club memebers, other performing arts clubs, etc.
-  - Because the club hosts 3 or 4 workshops per week, there will a big list of workshops. So, my client expects that we can sort worshops by the type of dance (tradition dance, contemporary dance, jazz).
+  - Workshop is a big part of the club's activities, and my client expects many people to look for workshop and Instructors information together: people who are interested in the club, club members, other performing arts clubs, etc.
+  - Because the club hosts 3 or 4 workshops per week, there will a big list of workshops. So, my client expects that we can sort workshops by the type of dance (tradition dance, contemporary dance, jazz).
 - **Design Ideas and Choices**
   - Create a page on workshops and corresponding Instructors
   - allow sorting
@@ -80,7 +81,7 @@ Needs/Wants: Workshops and Instructors Information
 
 Needs/Wants: Events
 - **Needs and Wants**
-  - The club is always invited by many other orgnizations, and the our client wants to show their performance schedule on their site
+  - The club is always invited by many other organizations, and the our client wants to show their performance schedule on their site
   - The club hosts one formal and one semi-formal event every semester; this will be for club members only
 - **Design Ideas and Choices**
   - Create a page on performance schedule; maybe make this page interactive and can update based on the date of access (the client says we don't have to do this)
@@ -120,7 +121,6 @@ Needs/Wants: Costume Order Form & interactive element
   - Create a page for order page, and the page will be a form.
 - **Memo**
   - N/A
-
 
 
 ## User(s) (Milestone 1)
