@@ -278,7 +278,11 @@ Need/Want: [Non Club member - Collaborator]
 
 > **Note:** Card sorting is used to organize your site's content. For each piece of content identified in the previous section, write a summary of that content onto a card. Now sort the cards. The grouping of cards provides you with your pages for your website. **Do not write down the pages you want and then "card sort" those. That is not card sorting.**
 
+![card sort 1](image/cardsort1.jpeg)
 
+![card sort 2](image/cardsort2.jpeg)
+
+![card sort 3](image/cardsort3.jpeg)
 
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
