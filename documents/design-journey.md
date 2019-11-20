@@ -281,7 +281,19 @@ Task: [TODO: copy task here]
 > Include the final sketches for each of your pages. These sketches **must** hand-drawn.
 
 **Desktop Design:**
+![Homepage](image/desktopHome.JPG)
 
+![Gallery](image/desktopGallery.JPG)
+
+![Events](image/desktopEvents.JPG)
+
+![Showcase](image/desktopShowcase.JPG)
+
+![Instructors](image/desktopInstructors.JPG)
+
+![Members](image/desktopMembers.JPG)
+
+![Content](image/desktopContent.JPG)
 
 **Mobile Design:**
 
