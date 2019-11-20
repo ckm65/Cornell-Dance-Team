@@ -189,30 +189,38 @@ Need/Want: [Non Club member - Collaborator]
 - **Design Ideas and Choices**
   - A page about collaboration could be made that provides contact information as well as specifics about collaborating with the dance troupe.
 - **Rationale & Additional Notes**
-  - 
+  -
 
 ## User Testing Plan (Milestone 1)
 > Plan out your tasks for evaluating whether your site will meet the needs of the users. These must be actual user testing tasks. Tasks are not questions!
 
-1.
+1. You found a flyer that said Amber Dance Troupe is now taking applications to join. Navigate through the website to apply to be a part of the team.
 
-2.
+2. You want to attend a workshop, but you don't know when and where it is. Find the time and location for the next workshop.
 
-3.
+3. You are part of a band and you want to collaborate with Amber Dance Troupe. Navigate the website to find out who to contact.
 
-4.
+4. It's the spring and you want to find more things to do. You are interested in attending the annual showcase. Navigate to get more information on the event.
 
 
 ## Content (Milestone 1)
 > Plan out your site's content (text, images, etc.). Make a list of **all** the content you will need. This list should be **exhaustive**.
 
-- TODO
-- TODO
-- ...
+- Homepage (i.e history, mission, values, culture)
+- Current Workshops(i.e practice times, locations, types of workshops)
+- eBoard and Instructors(photos and description of positions)
+- For Members (application and forms)
+- Annual Showcase
+- Gallery
+- Contact (i.e collaboration)
+
 
 ## Interactivity Ideas (Milestone 1)
 > Come up with some idea for interactive features for your site.
 
+- Forms
+- Gallery
+- Sorting
 
 # Design & Evaluation
 
