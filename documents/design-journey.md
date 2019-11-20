@@ -130,13 +130,37 @@ Our overall target audience is females at Cornell University. However, our targe
 - User
 
 ## Discovering Users' Needs (Milestone 1)
+<<<<<<< HEAD
 - Notes for Female who is interested in joining a dance troupe and has a passion for dance and practicing.
 ![User Interview Notes](image/user_interview_notes.jpeg)
+=======
+> You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
+
+![club member interview](image/interview_clubmember.jpg)
+
+Interview with potential collaborator:
+Member of jazz group
+Has collaborated with other groups before
+
+How did your group contact the other groups you have collaborated with?
+- They have usually known someone in the group, and talked with that person about collaborating
+- This talking was usually done over phone or in a group chat
+
+What about these other groups convinced you to collaborate with them?
+- Again, they knew people from the other groups, and thought it would be fun to collaborate with them
+- They saw that they liked the other groups work and like it
+- They thought they would work well together
+
+What kind of information would be helpful to get together with a group you might want to collaborate with?
+- Contact information, cellphone number or email
+- general information about the group, when they meet, what kind of work they do, the general work attitude they have
+>>>>>>> 401dccb92f839d11ac11bb3739b2a59a1b62bf71
 
 ## Users' Needs (Milestone 1)
 > Analyze the users' needs and wants from your notes above. List each need/want below. There is no specific number of needs required for this, but you need enough to do the job.
 > **Note:** These are probably *not* the needs of your client.
 
+<<<<<<< HEAD
 Need/Want: Culture
 - **Needs and Wants** [What do the users need and want?]
   - The user wants to know the culture or the group and what the entire groups mission and goals are
@@ -177,7 +201,45 @@ Need/Want: Equipment/Prices
 - **Rationale & Additional Notes** [Justify your decisions; additional notes.]
     - N/A
 Need/Want: ...
+=======
+Need/Want: [Club member - Workshops/sessions]
+- **Needs and Wants** [What do the users need and want?]
+  - Need to know if a workshop is happening: if it is, when and where
+  - Only look for particualr workshops that one wants to attend
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+  - Clearly list the timing and location of every workshop / practice session
+  - Enable sorting of workshops/practice by type
+- **Rationale & Additional Notes** [Justify your decisions; additional notes.]
+  - N/A
 
+Need/Want: [Club member - Instructors]
+- **Needs and Wants** [What do the users need and want?]
+  - Do not tend to care too much on this
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+  - Have a page on intructors for those who may be interested, but not combine with workshops
+- **Rationale & Additional Notes** [Justify your decisions; additional notes.]
+  - N/A
+>>>>>>> 401dccb92f839d11ac11bb3739b2a59a1b62bf71
+
+Need/Want: [Club member - Event]
+- **Needs and Wants** [What do the users need and want?]
+  - Time for social event is importance
+  - Time, location, and practice workshop for performance is important
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+  - Have a chronological line to show all the events: time and location
+  - use different color for performances and social events
+  - Link the page with workshop/practice page so user can navigate
+- **Rationale & Additional Notes** [Justify your decisions; additional notes.]
+  - N/A
+
+Need/Want: [Non Club member - Collaborator]
+- **Needs and Wants**
+  - Need information about how to contact the group
+  - Information about the type of collaboration the group is interested in working on
+- **Design Ideas and Choices**
+  - A page about collaboration could be made that provides contact information as well as specifics about collaborating with the dance troupe.
+- **Rationale & Additional Notes**
+  - 
 
 ## User Testing Plan (Milestone 1)
 > Plan out your tasks for evaluating whether your site will meet the needs of the users. These must be actual user testing tasks. Tasks are not questions!

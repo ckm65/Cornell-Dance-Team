@@ -10,11 +10,24 @@ You will need to learn to work in groups and resolve conflicts on your own. Thes
 
 1. To what goals do we all commit?
 
+<<<<<<< HEAD
+  Finish the project well.
+  Get milestones done on time.
+=======
 We agree to contribute equally to the project and dedicate a significant amount of time to each milestone. Our goal is to complete the milestones on time to the best of our ability. Furthermore, our goal is to successfully  complete the needs and wants of our client to the best of our abilities. We want to start early in case we have trouble!
+>>>>>>> e4fd53607d8490b278c66fa6dfd2f039f51726f6
 
 
 2. What are our “ground rules”? (Don't make an exhaustive list—stick with just a few.)
 
+<<<<<<< HEAD
+  Do your fair share of the work
+
+
+3. By what means and how frequently will we meet or communicate?
+
+  Communicate on group me
+=======
 - Everyone makes equal amounts of contributions
 - We inform each other every time someone pushes a document in order to avoid confusion or overlap
 - We communicate daily on the groupme and update each other on our progress.
@@ -27,6 +40,7 @@ We agree to contribute equally to the project and dedicate a significant amount 
 - Communication through groupme group chat daily
 - Let each other know when a change is being made to make sure to pull the document
 
+>>>>>>> e4fd53607d8490b278c66fa6dfd2f039f51726f6
 
 4. How will we communicate and work with our client?
 We will communicate with our client through text message and email. We will meet in person with our client at least twice. We will attend the clients workshops and information sessions in order to learn more!
