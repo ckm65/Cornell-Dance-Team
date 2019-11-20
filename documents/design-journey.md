@@ -177,27 +177,6 @@ Need/Want: ...
 
 > **Note:** Card sorting is used to organize your site's content. For each piece of content identified in the previous section, write a summary of that content onto a card. Now sort the cards. The grouping of cards provides you with your pages for your website. **Do not write down the pages you want and then "card sort" those. That is not card sorting.**
 
-* Sketches of the mobile site:
-
-![HomePage](image/m_home.jpg)
-
-
-![Contact](image/m_contact.jpg)
-
-
-![Events](image/m_events.jpg)
-
-
-![Gallery](image/m_gallery.jpg)
-
-
-![Instructors](image/m_instructors.jpg)
-
-
-![Members](image/m_members.jpg)
-
-
-![Showcase](image/m_showcase.jpg)
 
 
 ## Interactivity (Milestone 1)
@@ -282,6 +261,29 @@ Task: [TODO: copy task here]
 
 
 **Mobile Design:**
+
+* Sketches of the mobile site:
+
+![HomePage](image/m_home.jpg)
+
+
+![Contact](image/m_contact.jpg)
+
+
+![Events](image/m_events.jpg)
+
+
+![Gallery](image/m_gallery.jpg)
+
+
+![Instructors](image/m_instructors.jpg)
+
+
+![Members](image/m_members.jpg)
+
+
+![Showcase](image/m_showcase.jpg)
+
 
 
 ## Additional Comments (Milestone 1)
