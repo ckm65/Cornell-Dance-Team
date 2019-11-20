@@ -20,7 +20,7 @@ They want an informative website, and they also want to include recruitment info
 
 We are making a website for Amber Dance Troupe (focusing on Chinese tradition/folk dance, contemporary dance, and jazz), and this cite will be an informative presentation of the club; it should also contain information/form for E-Members, G-Members to look over and interact wth.
 
-Our client's target audience is female Cornellians who are committed to dancing. But our clients expect all these types of people to vist the site:
+Our client's target audience is female Cornellians who are committed to dancing. But our clients expect all these types of people to visit the site:
   1. dancers who are interested in Amber specifically
   2. people who have heard about the club but are looking for more information about the club
   3. club member to look up for workshop information, application/order forms, etc.
@@ -124,17 +124,81 @@ Needs/Wants: Costume Order Form & interactive element
 
 
 ## User(s) (Milestone 1)
+Our overall target audience is females at Cornell University. However, our target audience is broken down into three different sectors.  The first sector is targeted at females that are already in the dance group. This allows the entire group to collaborate with each other and keep up to date on current events and competitions. The second sector is for any females at Cornell University that are interested in joining a dance group or becoming more involved in the dance world (no experience necessary). Finally, the third sector is targeted at other clubs on campus that would like to partner or promote or dance troupe. It can be targeted at other organizations that would like to get involved.
 > Tell us about the users (target audience) for this website.
-
+- User Target Audience for females interested in dance and getting more involved, no prior experience necessary
+- User
 
 ## Discovering Users' Needs (Milestone 1)
 > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
 
+<<<<<<< HEAD
 ![clum member interview](image/interview_clubmember.jpg)
+=======
+![club member interview](image/interview_clubmember.jpg)
+
+Interview with potential collaborator:
+Member of jazz group
+Has collaborated with other groups before
+
+How did your group contact the other groups you have collaborated with?
+- They have usually known someone in the group, and talked with that person about collaborating
+- This talking was usually done over phone or in a group chat
+
+What about these other groups convinced you to collaborate with them?
+- Again, they knew people from the other groups, and thought it would be fun to collaborate with them
+- They saw that they liked the other groups work and like it
+- They thought they would work well together
+
+What kind of information would be helpful to get together with a group you might want to collaborate with?
+- Contact information, cellphone number or email
+- general information about the group, when they meet, what kind of work they do, the general work attitude they have
+>>>>>>> 2146c7bf6eb0a9e332f5b57de5be55e1067d2ee1
 
 ## Users' Needs (Milestone 1)
 > Analyze the users' needs and wants from your notes above. List each need/want below. There is no specific number of needs required for this, but you need enough to do the job.
 > **Note:** These are probably *not* the needs of your client.
+
+Need/Want: Culture
+- **Needs and Wants** [What do the users need and want?]
+  - The user wants to know the culture or the group and what the entire groups mission and goals are
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+  - Creating a page that reflects the history as well as the key values
+- **Rationale & Additional Notes** [Justify your decisions; additional notes.]
+  - N/A
+
+Need/Want: Practice Times
+- **Needs and Wants** [What do the users need and want?]
+    - The user wants to know the commitment level and different practice times or workshops that are offered and when
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+    - Creating a page that is designated to practice times and workshops. It will also include the location of the meetings.
+- **Rationale & Additional Notes** [Justify your decisions; additional notes.]
+    - N/A
+
+Need/Want: Leaders
+- **Needs and Wants** [What do the users need and want?]
+    - The user wants to know the leaders in the group
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+    - Creating a page that is designated to who is in charge and different members that are in the group
+- **Rationale & Additional Notes** [Justify your decisions; additional notes.]
+    - N/A
+
+Need/Want: Photos/Videos
+- **Needs and Wants** [What do the users need and want?]
+    - The user wants to be able to view photographs and videos to judge skill level
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+    - Creating a page that is designated to a specific gallery in order to attract more individuals
+- **Rationale & Additional Notes** [Justify your decisions; additional notes.]
+    - N/A
+
+Need/Want: Equipment/Prices
+- **Needs and Wants** [What do the users need and want?]
+    - The user wants to be able to know the specific costs and any equipment  they need to buy in order to successfully integrate themselves in the club
+- **Design Ideas and Choices** [How will you meet those needs and wants?]
+    - Under the about page it will include a form where females can sign up for sizes for costumes. It will also list the total cost of the club
+- **Rationale & Additional Notes** [Justify your decisions; additional notes.]
+    - N/A
+Need/Want: ...
 
 Need/Want: [Club member - Workshops/sessions]
 - **Needs and Wants** [What do the users need and want?]
@@ -165,28 +229,45 @@ Need/Want: [Club member - Event]
 - **Rationale & Additional Notes** [Justify your decisions; additional notes.]
   - N/A
 
+Need/Want: [Non Club member - Collaborator]
+- **Needs and Wants**
+  - Need information about how to contact the group
+  - Information about the type of collaboration the group is interested in working on
+- **Design Ideas and Choices**
+  - A page about collaboration could be made that provides contact information as well as specifics about collaborating with the dance troupe.
+- **Rationale & Additional Notes**
+  -
+
 ## User Testing Plan (Milestone 1)
 > Plan out your tasks for evaluating whether your site will meet the needs of the users. These must be actual user testing tasks. Tasks are not questions!
 
-1.
+1. You found a flyer that said Amber Dance Troupe is now taking applications to join. Navigate through the website to apply to be a part of the team.
 
-2.
+2. You want to attend a workshop, but you don't know when and where it is. Find the time and location for the next workshop.
 
-3.
+3. You are part of a band and you want to collaborate with Amber Dance Troupe. Navigate the website to find out who to contact.
 
-4.
+4. It's the spring and you want to find more things to do. You are interested in attending the annual showcase. Navigate to get more information on the event.
 
 
 ## Content (Milestone 1)
 > Plan out your site's content (text, images, etc.). Make a list of **all** the content you will need. This list should be **exhaustive**.
 
-- TODO
-- TODO
-- ...
+- Homepage (i.e history, mission, values, culture)
+- Current Workshops(i.e practice times, locations, types of workshops)
+- eBoard and Instructors(photos and description of positions)
+- For Members (application and forms)
+- Annual Showcase
+- Gallery
+- Contact (i.e collaboration)
+
 
 ## Interactivity Ideas (Milestone 1)
 > Come up with some idea for interactive features for your site.
 
+- Forms
+- Gallery
+- Sorting
 
 # Design & Evaluation
 
@@ -200,6 +281,11 @@ Need/Want: [Club member - Event]
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
 
+Forms: part of the purpose of the website is to recruit, and that includes E-board application. The current club member is also part of the user of the website, and they need to submit information about their costume sizes. Hence, a form can help my client to gather information on running the club in the future.
+
+Photo gallary: as a performing group, our client has many photos on their past performances and practices. Since they want to promote the club, and one way to do that is to present their hard works in the past. Plus, when it comes to performing art, it is easier to show the purpose and dedication through some visual components, like photos. So, a photo gallary will help our client to better achieve another main purpose of their website: to promote the club.
+
+Sorting: the website is also serving currect club members. These members are interested in different types of dances, and they need information on their own workshops and practices. Yet, these members, as Cornell students, are busy. They won't want to waste time on trying to browse through all the workshops and practice sessions every time. So, enabling a sorting function for workshops saves time for club members to better find inforamtion for themselves.
 
 ## User Testing (_optional_)
 > This testing is optional.
