@@ -130,10 +130,10 @@ Our overall target audience is females at Cornell University. However, our targe
 - User
 
 ## Discovering Users' Needs (Milestone 1)
-<<<<<<< HEAD
+
 - Notes for Female who is interested in joining a dance troupe and has a passion for dance and practicing.
 ![User Interview Notes](image/user_interview_notes.jpeg)
-=======
+
 > You'll need to discover your users' needs. Talk to them! Document what you've learned about them. When talking to your users, take notes and include those notes here.
 
 ![club member interview](image/interview_clubmember.jpg)
@@ -154,7 +154,7 @@ What about these other groups convinced you to collaborate with them?
 What kind of information would be helpful to get together with a group you might want to collaborate with?
 - Contact information, cellphone number or email
 - general information about the group, when they meet, what kind of work they do, the general work attitude they have
->>>>>>> 401dccb92f839d11ac11bb3739b2a59a1b62bf71
+
 
 ## Users' Needs (Milestone 1)
 > Analyze the users' needs and wants from your notes above. List each need/want below. There is no specific number of needs required for this, but you need enough to do the job.
