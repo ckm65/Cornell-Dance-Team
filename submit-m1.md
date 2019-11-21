@@ -23,17 +23,6 @@ See the course website for a detailed citation policy with more information on u
 
 **Place an x between the [] after you have completed each step.** (example: [x])
 
-<<<<<<< HEAD
-- [X] We have checked that each resource included in our submission adheres to the course citation policy.
-
-    Failure to adhere to the citation policy will result in a _minimum_ of a letter grade penalty for the assignment.
-
-- [X] All of the code we are submitting is our own work.
-
-    If you used other code as reference when writing your own code, please cite the resource via a comment.
-
-- [X] **We have checked that our _entire_ submission has been pushed to Cornell's GitHub.**
-=======
 - [x] We have checked that each resource included in our submission adheres to the course citation policy.
 
     Failure to adhere to the citation policy will result in a _minimum_ of a letter grade penalty for the assignment.
@@ -43,24 +32,15 @@ See the course website for a detailed citation policy with more information on u
     If you used other code as reference when writing your own code, please cite the resource via a comment.
 
 - [x] **We have checked that our _entire_ submission has been pushed to Cornell's GitHub.**
->>>>>>> 91f9392c5b596f56b8d84f9af1c4e3aa8213dc96
 
     Failure to push to GitHub is the same as not submitting an assignment.
 
     Your assignment's **submission time** is the time of your **last push** and _not_ the time of your last commit (the dates next to commits in GitHub).
 
-<<<<<<< HEAD
-- [X] We are ready to have our assignment graded.
 
-Each team member should sign their name and include today's date and time to submit **MILESTONE 1**.
-
-- Full Name of Each Contributing Team Member: Lavona Harper
-- Date & Time:
-=======
 - [x] We are ready to have our assignment graded.
 
 Each team member should sign their name and include today's date and time to submit **MILESTONE 1**.
 
-- Full Name of Each Contributing Team Member: Yifei Zheng/ Ian Ochola
+- Full Name of Each Contributing Team Member: Yifei Zheng/ Ian Ochola / Lavona Harper
 - Date & Time: 2019/11/21 10:06
->>>>>>> 91f9392c5b596f56b8d84f9af1c4e3aa8213dc96
