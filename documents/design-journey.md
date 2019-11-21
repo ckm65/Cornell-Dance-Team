@@ -205,7 +205,7 @@ Need/Want: ...
 Need/Want: [Club member - Workshops/sessions]
 - **Needs and Wants** [What do the users need and want?]
   - Need to know if a workshop is happening: if it is, when and where
-  - Only look for particualr workshops that one wants to attend
+  - Only look for particular workshops that one wants to attend
 - **Design Ideas and Choices** [How will you meet those needs and wants?]
   - Clearly list the timing and location of every workshop / practice session
   - Enable sorting of workshops/practice by type
@@ -283,6 +283,7 @@ Need/Want: [Non Club member - Collaborator]
 
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
+
 
 
 ## User Testing (_optional_)
