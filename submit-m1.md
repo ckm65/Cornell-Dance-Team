@@ -42,5 +42,5 @@ See the course website for a detailed citation policy with more information on u
 
 Each team member should sign their name and include today's date and time to submit **MILESTONE 1**.
 
-- Full Name of Each Contributing Team Member: Yifei Zheng/ Ian Ochola / Lavona Harper / Carolyn Morikawa
+- Full Name of Each Contributing Team Member: Yifei Zheng/ Ian Ochola / Lavona Harper / Carolyn Morikawa / Grayson Campbell
 - Date & Time: 2019/11/21 10:06
