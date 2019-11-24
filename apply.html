@@ -46,7 +46,9 @@
 
     <label for="name" class="question">Name:</label>
     <input type="text" id="name" name="name" required>
-
+    <span class="error hidden" id="name_error">
+      Please provide your name.
+    </span>
 
 
     <label for="year" class="question">School Year:</label>
@@ -58,6 +60,9 @@
       <option value="2023" id="2023">Class of 2023</option>
       <option value="grad" id="grad">Graduate Student</option>
     </select>
+    <span class="error hidden" id="year_error">
+      Please select your school year.
+    </span>
 
 
 
@@ -83,11 +88,19 @@
     <input type="checkbox" id="johnson" name="college[]" value="johnson">
     <label for="johnson">SC Johnson School of Business</label>
 
+    <span class="error hidden" id="college_error">
+      Please select your college(s).
+    </span>
 
 
     <label for="motivation" class="question">Why do you want to be on the E-Board of Amber Dance Troupe?</label>
     <textarea id="motivation" class="question" name="motivation" rows="5" cols="60" required minlength="50"></textarea>
-
+    <span class="error hidden" id="motivation_error_noinput">
+      Please tell us about why you want to apply!
+    </span>
+    <span class="error hidden" id="motivation_error_shortinput">
+      Please tell us about why you want to apply in more than 50 characters!
+    </span>
 
 
 
@@ -107,10 +120,20 @@
     <input type="checkbox" id="social" name="position[]" value="social">
     <label for="social">Social Chair</label>
 
+    <span class="error hidden" id="position_error">
+      Please select the position(s) you want to serve.
+    </span>
 
 
     <label for="reason" class="question">Why do you want to serve the position(s) above? What can you bring to the club?</label>
     <textarea id="reason" class="question" name="reason" rows="5" cols="60" required minlength="50"></textarea>
+
+    <span class="error hidden" id="reason_error_noinput">
+      Please tell us about your thoughts on the position(s) you select!
+    </span>
+    <span class="error hidden" id="reason_error_shortinput">
+      Please tell us about the reasons for your picked positions in more than 50 characters.
+    </span>
 
 
 
