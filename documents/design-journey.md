@@ -23,9 +23,7 @@ We are making a website for Amber Dance Troupe (focusing on Chinese tradition/fo
 Our client's target audience is female Cornellians who are committed to dancing. But our clients expect all these types of people to visit the site:
   1. dancers who are interested in Amber specifically
   2. people who have heard about the club but are looking for more information about the club
-  3. club member to look up for workshop information, application/order forms, etc.
-  4. Cornell administration to ensure that the club is actually holding events
-  5. Other performing art clubs that are looking for collaboration
+  3. Other performing art clubs that are looking for collaboration
 
 Here are some pages/information that our client expects to see:
   - information about club history
@@ -129,9 +127,6 @@ Needs/Wants: Costume Order Form & interactive element
 Our overall target audience is females at Cornell University. However, our target audience is broken down into three different sectors.  The first sector is targeted at females that are already in the dance group. This allows the entire group to collaborate with each other and keep up to date on current events and competitions. The second sector is for any females at Cornell University that are interested in joining a dance group or becoming more involved in the dance world (no experience necessary). Finally, the third sector is targeted at other clubs on campus that would like to partner or promote or dance troupe. It can be targeted at other organizations that would like to get involved.
 
 ## Discovering Users' Needs (Milestone 1)
-<<<<<<< HEAD
-
-=======
 
 - Notes for Female who is interested in joining a dance troupe and has a passion for dance and practicing.
 ![User Interview Notes](image/user_interview_notes.jpeg)
@@ -159,7 +154,6 @@ What kind of information would be helpful to get together with a group you might
 - Contact information, cellphone number or email
 - general information about the group, when they meet, what kind of work they do, the general work attitude they have
 
->>>>>>> 3396501c503d463e5a07dd6edea32e2f70d1c9b2
 
 ## Users' Needs (Milestone 1)
 > Analyze the users' needs and wants from your notes above. List each need/want below. There is no specific number of needs required for this, but you need enough to do the job.
@@ -204,10 +198,6 @@ Need/Want: Equipment/Prices
     - Under the about page it will include a form where females can sign up for sizes for costumes. It will also list the total cost of the club
 - **Rationale & Additional Notes** [Justify your decisions; additional notes.]
     - N/A
-<<<<<<< HEAD
-Need/Want: ...
-=======
->>>>>>> 3396501c503d463e5a07dd6edea32e2f70d1c9b2
 
 Need/Want: [Club member - Workshops/sessions]
 - **Needs and Wants** [What do the users need and want?]
@@ -244,10 +234,6 @@ Need/Want: [Non Club member - Collaborator]
   - A page about collaboration could be made that provides contact information as well as specifics about collaborating with the dance troupe.
 - **Rationale & Additional Notes**
   -
-<<<<<<< HEAD
-=======
-
->>>>>>> 3396501c503d463e5a07dd6edea32e2f70d1c9b2
 
 ## User Testing Plan (Milestone 1)
 > Plan out your tasks for evaluating whether your site will meet the needs of the users. These must be actual user testing tasks. Tasks are not questions!
