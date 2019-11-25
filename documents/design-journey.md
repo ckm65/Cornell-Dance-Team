@@ -425,8 +425,81 @@ Example:
 ```
 when DOM is loaded:
 
-  if today is a monday:
-    show Monday's soup and Monday's daily special
+  if the sub-tab of folk dance is selected:
+    the workshop page toggles to hide information of jazz and classic dance
+  elseif the sub-tab of jazz dance is selected:
+    the workshop page toggles to hide information of folk and classic dance
+  else (the sub-tab of classic dance is selected):
+    the workshop page toggles to hide information of folk and jazz dance
+
+
+
+  when the "event" tab on the nav bar is clicked:
+    If the dropdown menu is visible:
+      add class "hidden" to hide the dropdown menu
+    else:
+      remove class "hidden" to show the menu
+
+
+
+  var photos = an array of all the photos in the slideshow
+
+  var photoIndex = 0;
+
+  When the "next" button of the slide show is clicked:
+    if on the last image:
+      change photoIndex back to 0
+      change the value of "src" to the first element of photos array
+    else:
+      add one to photoIndex
+      change the value of "src" to the photoIndex-th element of photos array
+
+  When the "previous" button of the slide show is clicked:
+    if on the first image:
+      change photoIndex to the number of photos there are in the array
+      change the value of "src" to the last element of photos array
+    else:
+      minus one from photoIndex
+      change the value of "src" to the photoIndex-th element of photos array
+
+
+
+  When "submit button" is clicked:
+
+    if name field is empty:
+      display error message "Please provide your name."
+    else:
+      hide the error message "Please provide your name."
+
+    if nothing is selected for school year:
+      display error message "Please select your school year."
+    else:
+      hide the error message "Please select your school year."
+
+    if no college is checked:
+      display error message "Please select your college(s)."
+    else
+      hide error message "Please select your college(s)."
+
+    if no motivation of applying is given:
+      display error message "Please tell us about why you want to apply!"
+    else if the input provided is less than 50 characters:
+      display error message "Please tell us about why you want to apply in more than 50 characters!"
+    else:
+      hide both error messages
+
+    if no position is checked:
+      display error message "Please select the position(s) you want to serve."
+    else
+      hide error message "Please select the position(s) you want to serve."
+
+    if no input for reason of selecting above position(s) is given:
+      display error message "Please tell us about your thoughts on the position(s) you select!"
+    else if the input provided is less than 50 characters:
+      display error message "Please tell us about the reasons for your picked positions in more than 50 characters."
+    else:
+      hide both error messages
+
 
 ```
 
