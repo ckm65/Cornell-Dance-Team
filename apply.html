@@ -15,137 +15,142 @@
       <li class="row row1"><a href="workshops.html">Workshops</a></li>
 
       <!-- <li>
-        <ul> -->
-           <li><a href="performances.html">Performances</a></li>
-           <!-- <li><a href="showcase.html">Showcase</a></li>
-           <li ><a href="events.html"> Social Events</a></li> -->
+      <ul> -->
+      <li><a href="performances.html">Performances</a></li>
+      <!-- <li><a href="showcase.html">Showcase</a></li>
+      <li ><a href="events.html"> Social Events</a></li> -->
 
-         <!-- </ul>
-      </li> -->
+      <!-- </ul>
+    </li> -->
 
-      <li><a href="gallery.html">Gallery</a></li>
-      <li><a href="apply.html">Apply Now!</a></li>
-    </ul>
-  </nav>
+    <li><a href="gallery.html">Gallery</a></li>
+    <li><a href="apply.html">Apply Now!</a></li>
+  </ul>
+</nav>
 
 
-  <p>Thank you for being interested in applying for Amber E-Board! We are excited to read you application! Before you fill out the form, here are some descriptions for each position:</p>
+<p>Thank you for being interested in applying for Amber E-Board! We are excited to read you application! Before you fill out the form, here are some descriptions for each position:</p>
 
-  <p><strong>President: </strong>You will be overseeing the entire club: workshops, performances, social events, etc. You will plan out the schedule for each semester, consult with senior advisors, and organize E-Board meetings.</p>
+<p><strong>President: </strong>You will be overseeing the entire club: workshops, performances, social events, etc. You will plan out the schedule for each semester, consult with senior advisors, and organize E-Board meetings.</p>
 
-  <p><strong>Publicity Chair:</strong>Design and photography skills are highly encouraged. You will also need to take care of Amber's Facebook and Wechat account.</p>
+<p><strong>Publicity Chair:</strong>Design and photography skills are highly encouraged. You will also need to take care of Amber's Facebook and Wechat account.</p>
 
-  <p><strong>Treasury:</strong>You will submit budget planning forms, allocate funding, and take care of reimbursement.</p>
+<p><strong>Treasury:</strong>You will submit budget planning forms, allocate funding, and take care of reimbursement.</p>
 
-  <p><strong>Logistics Assistant:</strong>You will be in charge of ordering and organizing costumes. You are also responsible for cosmetics during performances.</p>
+<p><strong>Logistics Assistant:</strong>You will be in charge of ordering and organizing costumes. You are also responsible for cosmetics during performances.</p>
 
-  <p><strong>Social Chair:</strong>You will represent the club and reach out for collaboration. You are also in charge of internal social events.</p>
+<p><strong>Social Chair:</strong>You will represent the club and reach out for collaboration. You are also in charge of internal social events.</p>
 
-  <form id="apply_form" method="post" action="https://www.cs.cornell.edu/courses/cs1300/2019fa/submit.php" novalidate>
-
+<form id="apply_form" method="post" action="https://www.cs.cornell.edu/courses/cs1300/2019fa/submit.php" novalidate>
+  <div class="form_block">
     <label for="name" class="question">Name:</label>
     <input type="text" id="name" name="name" required>
     <span class="error hidden" id="name_error">
       Please provide your name.
     </span>
+  </div>
+
+  <div class="form_block">
+  <label for="year" class="question">School Year:</label>
+  <select id="year" class="question" name="year" required>
+    <option value="" class="year_place_holder">Please Select</option>
+    <option value="2020" id="2020">Class of 2020</option>
+    <option value="2021" id="2021">Class of 2021</option>
+    <option value="2022" id="2022">Class of 2022</option>
+    <option value="2023" id="2023">Class of 2023</option>
+    <option value="grad" id="grad">Graduate Student</option>
+  </select>
+  <span class="error hidden" id="year_error">
+    Please select your school year.
+  </span>
+</div>
 
 
-    <label for="year" class="question">School Year:</label>
-    <select id="year" class="question" name="year" required>
-      <option value="" class="year_place_holder">Please Select</option>
-      <option value="2020" id="2020">Class of 2020</option>
-      <option value="2021" id="2021">Class of 2021</option>
-      <option value="2022" id="2022">Class of 2022</option>
-      <option value="2023" id="2023">Class of 2023</option>
-      <option value="grad" id="grad">Graduate Student</option>
-    </select>
-    <span class="error hidden" id="year_error">
-      Please select your school year.
-    </span>
+  <div class="form_block">
+  <label class="question">College(s):</label>
+  <input type="checkbox" id="cas" name="college[]" value="cas">
+  <label for="cas">College of Arts and Sciences</label>
+
+  <input type="checkbox" id="cals" name="college[]" value="cals">
+  <label for="cals">Colleges of Agriculture and Life Sciences</label>
+
+  <input type="checkbox" id="coe" name="college[]" value="coe">
+  <label for="coe">College of Engineering</label>
+
+  <input type="checkbox" id="aap" name="college[]" value="aap">
+  <label for="aap">College of Architecture, Arts and Planning</label>
+
+  <input type="checkbox" id="ilr" name="college[]" value="ilr">
+  <label for="ilr">School of Industrial and Labor Relations</label>
+
+  <input type="checkbox" id="hoe" name="college[]" value="hoe">
+  <label for="hoe">College of Human Ecology</label>
+
+  <input type="checkbox" id="johnson" name="college[]" value="johnson">
+  <label for="johnson">SC Johnson School of Business</label>
+
+  <span class="error hidden" id="college_error">
+    Please select your college(s).
+  </span>
+</div>
+
+<div class="form_block">
+  <label for="motivation" class="question">Why do you want to be on the E-Board of Amber Dance Troupe?</label>
+  <textarea id="motivation" class="question" name="motivation" rows="5" cols="60" required minlength="50"></textarea>
+  <span class="error hidden" id="motivation_error_noinput">
+    Please tell us about why you want to apply!
+  </span>
+  <span class="error hidden" id="motivation_error_shortinput">
+    Please tell us about why you want to apply in more than 50 characters!
+  </span>
+</div>
 
 
+<div class="form_block">
+  <label class="question">Position(s):</label>
+  <input type="checkbox" id="president" name="position[]" value="president">
+  <label for="president">President</label>
 
-    <label class="question">College(s):</label>
-    <input type="checkbox" id="cas" name="college[]" value="cas">
-    <label for="cas">College of Arts and Sciences</label>
+  <input type="checkbox" id="publicity" name="position[]" value="publicity">
+  <label for="publicity">Publicity Chair</label>
 
-    <input type="checkbox" id="cals" name="college[]" value="cals">
-    <label for="cals">Colleges of Agriculture and Life Sciences</label>
+  <input type="checkbox" id="treasury" name="position[]" value="treasury">
+  <label for="treasury">Treasury</label>
 
-    <input type="checkbox" id="coe" name="college[]" value="coe">
-    <label for="coe">College of Engineering</label>
+  <input type="checkbox" id="logistics" name="position[]" value="logistics">
+  <label for="logistics">Logistics Assistant</label>
 
-    <input type="checkbox" id="aap" name="college[]" value="aap">
-    <label for="aap">College of Architecture, Arts and Planning</label>
+  <input type="checkbox" id="social" name="position[]" value="social">
+  <label for="social">Social Chair</label>
 
-    <input type="checkbox" id="ilr" name="college[]" value="ilr">
-    <label for="ilr">School of Industrial and Labor Relations</label>
+  <span class="error hidden" id="position_error">
+    Please select the position(s) you want to serve.
+  </span>
+</div>
 
-    <input type="checkbox" id="hoe" name="college[]" value="hoe">
-    <label for="hoe">College of Human Ecology</label>
+<div class="form_block">
+  <label for="reason" class="question">Why do you want to serve the position(s) above? What can you bring to the club?</label>
+  <textarea id="reason" class="question" name="reason" rows="5" cols="60" required minlength="50"></textarea>
 
-    <input type="checkbox" id="johnson" name="college[]" value="johnson">
-    <label for="johnson">SC Johnson School of Business</label>
+  <span class="error hidden" id="reason_error_noinput">
+    Please tell us about your thoughts on the position(s) you select!
+  </span>
+  <span class="error hidden" id="reason_error_shortinput">
+    Please tell us about the reasons for your picked positions in more than 50 characters.
+  </span>
+</div>
 
-    <span class="error hidden" id="college_error">
-      Please select your college(s).
-    </span>
-
-
-    <label for="motivation" class="question">Why do you want to be on the E-Board of Amber Dance Troupe?</label>
-    <textarea id="motivation" class="question" name="motivation" rows="5" cols="60" required minlength="50"></textarea>
-    <span class="error hidden" id="motivation_error_noinput">
-      Please tell us about why you want to apply!
-    </span>
-    <span class="error hidden" id="motivation_error_shortinput">
-      Please tell us about why you want to apply in more than 50 characters!
-    </span>
-
-
-
-    <label class="question">Position(s):</label>
-    <input type="checkbox" id="president" name="position[]" value="president">
-    <label for="president">President</label>
-
-    <input type="checkbox" id="publicity" name="position[]" value="publicity">
-    <label for="publicity">Publicity Chair</label>
-
-    <input type="checkbox" id="treasury" name="position[]" value="treasury">
-    <label for="treasury">Treasury</label>
-
-    <input type="checkbox" id="logistics" name="position[]" value="logistics">
-    <label for="logistics">Logistics Assistant</label>
-
-    <input type="checkbox" id="social" name="position[]" value="social">
-    <label for="social">Social Chair</label>
-
-    <span class="error hidden" id="position_error">
-      Please select the position(s) you want to serve.
-    </span>
-
-
-    <label for="reason" class="question">Why do you want to serve the position(s) above? What can you bring to the club?</label>
-    <textarea id="reason" class="question" name="reason" rows="5" cols="60" required minlength="50"></textarea>
-
-    <span class="error hidden" id="reason_error_noinput">
-      Please tell us about your thoughts on the position(s) you select!
-    </span>
-    <span class="error hidden" id="reason_error_shortinput">
-      Please tell us about the reasons for your picked positions in more than 50 characters.
-    </span>
-
-
-
-    <label for="addition" class="question">Any additional information for us to know?</label>
-    <textarea id="addition" class="question" name="addition" rows="5" cols="60"></textarea>
-
-    <button type="submit" class="submit">Submit</button>
-  </form>
-  <h3> Amber's Email</h3>
-  <address>
-    <a href="amber.dancetroupe@gmail.com">amber.dancetroupe@gmail.com</a></address>
-    <h3> Contact Person</h3>
-    Co-president: Tingyue(Stephanie) Tan<address><a href=" tt453@cornell.edu">tt453@cornell.edu</a></address>
-    Co-president: Jiali Liu<address><a href="jl2685@cornell.edu">jl2685@cornell.edu</a></address>
+<div class="form_block">
+  <label for="addition" class="question">Any additional information for us to know?</label>
+  <textarea id="addition" class="question" name="addition" rows="5" cols="60"></textarea>
+</div>
+  <button type="submit" class="submit">Submit</button>
+</form>
+<h3> Amber's Email</h3>
+<address>
+  <a href="amber.dancetroupe@gmail.com">amber.dancetroupe@gmail.com</a></address>
+  <h3> Contact Person</h3>
+  Co-president: Tingyue(Stephanie) Tan<address><a href=" tt453@cornell.edu">tt453@cornell.edu</a></address>
+  Co-president: Jiali Liu<address><a href="jl2685@cornell.edu">jl2685@cornell.edu</a></address>
 </body>
 </html>

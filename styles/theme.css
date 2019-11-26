@@ -1,58 +1,67 @@
 body {
-    font-family:sans-serif;
+  font-family:sans-serif;
 }
 nav{
-    background-color: #49989c;
+  background-color: #49989c;
 }
 nav li {
-    list-style: none;
-    padding-right:10px;
+  list-style: none;
+  padding-right:10px;
 }
 
 nav ul {
-    display: flex;
-    padding: 20px;
-    justify-content: center;
+  display: flex;
+  padding: 20px;
+  justify-content: center;
 }
 nav li a {
-    text-decoration: none;
-    padding: 15px;
-    border-style: ridge;
-    border-color: white;
-    border-spacing: 5px;
+  text-decoration: none;
+  padding: 15px;
+  border-style: ridge;
+  border-color: white;
+  border-spacing: 5px;
 }
 
 h1 {
-    text-align: center;
+  text-align: center;
 
 }
 figcaption {
-    text-align: center;
-    justify-content: center;
+  text-align: center;
+  justify-content: center;
 }
 .center {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 img .center {
-    flex-direction: row;
+  flex-direction: row;
+}
+
+.hidden{
+  display: none;
+}
+
+.form_block{
+  display: block;
 }
 
 @media (max-width: 600px){
 
-.center{
+  .center{
     flex-direction: column;
-}
-nav ul{
+  }
+  nav ul{
     display: flex;
     list-style-type: none;
     flex-wrap: wrap;
-}
+  }
 
-nav li {
+  nav li {
     display:flex;
     flex-direction: column;
     width:35%;
     text-align: center;
+  }
 }
