@@ -417,11 +417,23 @@ Task: [TODO: copy task here]
 ## Client Feedback (Milestone 2)
 > You have met once with your client a second time to discuss your initial design. Include your notes from the meeting, an email they sent you, or whatever you used to keep track of what was discussed at the meeting. Write a few sentences about the design feedback you received from your client.
 
+![email with client 1](image/email1.JPG)
+
+![email with client 2](image/email2.JPG)
+
+![email with client 3](image/email3.JPG)
+
+Summary of the second meeting:
+The client understands that for the purpose of this project, we cannot target both people interested in the club and club members, so she is okay with us only desining the website for promotion purpose.
+
+The client claims that there won't be any performances left for this semester, and she is okay with us using past performance schedule to complete this assignment.
+
+The client likes the application form: she thinks that this is actually very close to the application they sent out in the past.
+
 
 ## Interactivity Plan (Milestone 2)
 > Write your interactivity pseudocode here.
 
-Example:
 ```
 when DOM is loaded:
 
