@@ -523,6 +523,9 @@ when DOM is loaded:
 ## Additional Comments (Milestone 2)
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.
 
+Because the dropdown menu, workshop toggle, and photo gallery requires javascript that we haven't started, we didn't make them visible for now. But the hidden pages are all here (we just commented them out), and the interactivity pseudocode is up too.
+
+We are also waiting for more information to fill in on workshop and performance pages.
 
 ---
 
