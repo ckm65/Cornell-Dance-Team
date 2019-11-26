@@ -423,6 +423,8 @@ Task: [TODO: copy task here]
 
 ![email with client 3](image/email3.JPG)
 
+![meeting notes](image/meeting_note.jpg)
+
 Summary of the second meeting:
 The client understands that for the purpose of this project, we cannot target both people interested in the club and club members, so she is okay with us only designing the website for promotion purpose.
 
