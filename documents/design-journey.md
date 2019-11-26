@@ -423,13 +423,18 @@ Task: [TODO: copy task here]
 
 ![email with client 3](image/email3.JPG)
 
+![meeting notes](image/meeting_note.jpg)
+
 Summary of the second meeting:
-The client understands that for the purpose of this project, we cannot target both people interested in the club and club members, so she is okay with us only desining the website for promotion purpose.
+The client understands that for the purpose of this project, we cannot target both people interested in the club and club members, so she is okay with us only designing the website for promotion purpose.
 
 The client claims that there won't be any performances left for this semester, and she is okay with us using past performance schedule to complete this assignment.
 
 The client likes the application form: she thinks that this is actually very close to the application they sent out in the past.
 
+The client thinks that we can make navigation of the website more smooth: eboard page and application page can be linked, photo gallary and performance pages can be linked, etc.
+
+The client and I also talked about sending the application form to an email account. We decide to save more detailed discussion to our next meeting.
 
 ## Interactivity Plan (Milestone 2)
 > Write your interactivity pseudocode here.
