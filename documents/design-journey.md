@@ -213,7 +213,7 @@ Need/Want: [Club member - Instructors]
 - **Needs and Wants** [What do the users need and want?]
   - Do not tend to care too much on this
 - **Design Ideas and Choices** [How will you meet those needs and wants?]
-  - Have a page on intructors for those who may be interested, but not combine with workshops
+  - Have a page on instructors for those who may be interested, but not combine with workshops
 - **Rationale & Additional Notes** [Justify your decisions; additional notes.]
   - N/A
 
@@ -286,9 +286,9 @@ Need/Want: [Non Club member - Collaborator]
 
 Forms: part of the purpose of the website is to recruit, and that includes E-board application. The current club member is also part of the user of the website, and they need to submit information about their costume sizes. Hence, a form can help my client to gather information on running the club in the future.
 
-Photo gallary: as a performing group, our client has many photos on their past performances and practices. Since they want to promote the club, and one way to do that is to present their hard works in the past. Plus, when it comes to performing art, it is easier to show the purpose and dedication through some visual components, like photos. So, a photo gallary will help our client to better achieve another main purpose of their website: to promote the club.
+Photo gallery: as a performing group, our client has many photos on their past performances and practices. Since they want to promote the club, and one way to do that is to present their hard works in the past. Plus, when it comes to performing art, it is easier to show the purpose and dedication through some visual components, like photos. So, a photo gallery will help our client to better achieve another main purpose of their website: to promote the club.
 
-Sorting: the website is also serving currect club members. These members are interested in different types of dances, and they need information on their own workshops and practices. Yet, these members, as Cornell students, are busy. They won't want to waste time on trying to browse through all the workshops and practice sessions every time. So, enabling a sorting function for workshops saves time for club members to better find inforamtion for themselves.
+Sorting: the website is also serving current club members. These members are interested in different types of dances, and they need information on their own workshops and practices. Yet, these members, as Cornell students, are busy. They won't want to waste time on trying to browse through all the workshops and practice sessions every time. So, enabling a sorting function for workshops saves time for club members to better find information themselves.
 
 
 ## User Testing (_optional_)
