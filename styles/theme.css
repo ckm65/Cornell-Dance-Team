@@ -80,7 +80,7 @@ h3 {
     color: white;
     text-align: center;
     text-decoration:black underline;
-    font-size: 25px;
+    font-size: 30px;
     font-family:garamond;
     padding: 0;
     background-color:#49989c;
@@ -106,11 +106,69 @@ li {
     text-align:center;
     font-size: 15px;
     padding:0;
+
 }
+.instructors_1{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    padding: 0px;
+    margin:0;
+    align-items: center;
+}
+
+.instructors_1 p{
+    text-align:center;
+    font-size: 12px;
+    padding:0;
+    align-items: center;
+
+}
+.instructors_1 h4{
+    text-align: center;
+    font-size: 30px;
+    justify-content: center;
+    display:flex;
+    color:#f8f8f8;
+    background-color: black;
+
+}
+.instructors_2 p{
+    text-align:center;
+    font-size: 12px;
+    padding:0;
+    align-items: center;
+
+}
+.instructors_2 h4{
+    text-align: center;
+    font-size: 30px;
+    justify-content: center;
+    display:flex;
+    color:#f8f8f8;
+    background-color: black;
+}
+
+.president p{
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+    justify-content: center;
+
+}
+
 em{
     color:black;
     font-size:15px;
     padding:0;
+}
+.instructors_2 {
+        display:flex;
+        flex-direction:row;
+        flex-wrap:nowrap;
+        text-align: center;
+        text-align-last: left;
+
 }
 figcaption {
   text-align: center;
