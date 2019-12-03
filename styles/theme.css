@@ -114,19 +114,85 @@ img .images_home {
   flex-direction: row;
 }
 
-.hidden{
-  display: none;
-}
-
-.form_block{
-  display: block;
-}
 p {
   color: black;
   font-size: 20px;
   text-align:center;
   font-family:georgia;
 }
+
+.questions{
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  align-items: flex-start;
+  margin: 0 auto;
+}
+
+.hidden{
+  display: none;
+}
+
+.form_block{
+  display: block;
+  width: 100%;
+  text-align: left;
+  margin-bottom: 40px;
+}
+
+.question{
+  display: block;
+  width: 100%;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+
+.text_input,textarea{
+  display: block;
+  width: 100%;
+}
+
+#name:focus,textarea:focus,select:focus{
+  outline: none;
+  border: 2px solid #49989c;
+}
+
+option:hover{
+  background-color: #49989c;
+}
+
+.checkoption{
+  margin-bottom: 5px;
+}
+
+.position_explanation{
+  margin: 0 auto;
+  max-width: 600px;
+  margin-bottom: 50px;
+}
+
+.position_explanation p{
+  display: block;
+  text-align: left;
+  font-size: 16px;
+  margin-bottom: 30px;
+}
+
+.submit{
+  align-self: flex-end;
+  margin-right: 25px;
+  padding: 10px 15px 10px 15px;
+  font-size: 14px;
+  color: #49989c;
+  font-weight: bold;
+}
+
+.submit:hover{
+  background-color: #49989c;
+  border-color: #49989c;
+  color: white;
+}
+
 @media (max-width: 600px){
 
   .center{
