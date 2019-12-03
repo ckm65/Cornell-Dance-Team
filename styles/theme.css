@@ -1,12 +1,36 @@
 body {
   font-family:sans-serif;
 }
-nav{
-  background-color: #49989c;
+
+nav ul li a:link, nav ul li a:visited {
+  color: #49989c;
+}
+nav ul li {
+  font-size: .95em;
+  text-transform: uppercase;
+  flex: none;
+}
+nav ul li a {
+  display: block;
+  border: 1px solid;
+  padding: .4em 1em;
+  border-radius: 1.5em;
+  margin: .25em;
+}
+nav ul {
+  margin: 0;
+  padding: 10px;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.locate{
+    text-align:right;
 }
 nav li {
   list-style: none;
-  padding-right:10px;
+  padding-right:57px;
 }
 
 nav ul {
@@ -16,26 +40,77 @@ nav ul {
 }
 nav li a {
   text-decoration: none;
-  padding: 15px;
-  border-style: ridge;
-  border-color: white;
-  border-spacing: 5px;
+  padding: 13px;
+  border-style: solid;
+  border-color:#49989c;
+  border-spacing: 20px;
 }
 
 h1 {
-  text-align: center;
+  color: black;
+  padding-left:300px;
+  font-family:cursive;
+  font-size: 70px;
+  text-decoration: #49989c underline;
+  margin:auto;
+  display:block;
+}
+h2 {
+    color: white;
+    text-align: center;
+    text-decoration:black underline;
+    font-size: 30px;
+    font-family:garamond;
+    padding: 0;
+    background-color:#49989c;
+}
+h3 {
+    color: white;
+    text-align: center;
+    text-decoration:black underline;
+    font-size: 25px;
+    font-family:garamond;
+    padding: 0;
+    background-color:#49989c;
+}
+h5 {
+    color: #49989c;
+    text-align: center;
+    text-decoration:white underline;
+    font-size: 30px;
+    font-family:garamond;
+    padding: 0;
+    background-color:black;
+}
+li {
+  color: black;
+  font-family: georgia;
+  padding: 0;
+  text-align:center;
+  list-style-position: inside;
 
+}
+.contact{
+    text-align:center;
+    font-size: 15px;
+    padding:0;
+}
+em{
+    color:black;
+    font-size:15px;
+    padding:0;
 }
 figcaption {
   text-align: center;
   justify-content: center;
+  font-size: 10px;
 }
-.center {
+.images_home {
   display: flex;
   justify-content: center;
   align-items: center;
 }
-img .center {
+img .images_home {
   flex-direction: row;
 }
 
@@ -46,7 +121,12 @@ img .center {
 .form_block{
   display: block;
 }
-
+p {
+  color: black;
+  font-size: 20px;
+  text-align:center;
+  font-family:georgia;
+}
 @media (max-width: 600px){
 
   .center{
