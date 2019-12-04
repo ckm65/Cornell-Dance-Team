@@ -1,4 +1,5 @@
 $(document).ready(function () {
+// gallery interactivity //
   var slides= [
     "images/showcase1.jpg",
     "images/showcase2.jpg",
@@ -28,13 +29,18 @@ $(document).ready(function () {
       index = index + 1;
       $("#slideshowPhoto").attr("src",slides[index]);
     }
-
-    // form validation //
+//toggle interactivity//
+    $('.content').hide();
+    $('.expander').click(function () {
+        $(this).parent().next().slideToggle(200);
+    });
+    $('.content').slideUp(200);
     $("#apply_form").on("submit", function() {
         var formValid = true;
 
+// form validation //
     if ($("#name").prop("validity").valid ) {
-        $(".name_error").addClass("hidden");
+        $("#name_error").addClass("hidden");
     } else {
         $("#name_error").removeClass("hidden");
             formValid = false;
@@ -84,11 +90,7 @@ $(document).ready(function () {
         $("#reason_error_shortinput").removeClass("hidden");
             formValid = false;
     }
-      return formValid
-  })
-    $('.content').hide();
-    $('.expander').click(function () {
-        $(this).parent().next().slideToggle(200);
+        return formValid
     });
-    $('.content').slideUp(200);
+});
 });
