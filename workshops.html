@@ -5,6 +5,8 @@
     <meta charset="utf-8">
     <title>Amber Dance</title>
     <link rel= "stylesheet" type= "text/css" href="styles/theme.css"/>
+    <script src="scripts/jquery-3.4.1.min.js" type="text/javascript"></script>
+    <script language="JavaScript" src="scripts/interactivity.js" type="text/javascript"></script>
   </head>
   <body>
     <h1> <span>Amber Dance Troupe</span></h1>
@@ -14,54 +16,65 @@
         <li class="row row1"><a href="instructors.html">E-Board</a></li>
         <li class="row row1"><a href="workshops.html">Workshops</a></li>
 
-        <!-- <li>
-          <ul> -->
-             <li><a href="performances.html">Performances</a></li>
-             <!-- <li><a href="showcase.html">Showcase</a></li>
-             <li ><a href="events.html"> Social Events</a></li> -->
+        <li  id = "dropdown">
+          <p>Events</p>
+          <ul>
+             <li class = "dropdownContent row row1"><a href="performances.html">Performances</a></li>
+             <li class = "dropdownContent"><a href="showcase.html">Showcase</a></li>
+             <li class = "dropdownContent"><a href="events.html"> Social Events</a></li>
 
-           <!-- </ul>
-        </li> -->
+           </ul>
+        </li>
 
         <li><a href="gallery.html">Gallery</a></li>
         <li><a href="apply.html">Apply Now!</a></li>
       </ul>
     </nav>
           <h2>Workshops</h2>
-          <h4>Chinese Folk Dance / 中国民族舞</h4>
-          <p> <strong>Time:</strong> Friday 4-6pm </p>
-          <p> <strong>Location:</strong> Willard Straight Hall Garden Room</p>
-          <figure>
-            <!-- Source: https://www.facebook.com/cornellAmber/photos/a.812027548886467/989798941109326/?type=3&theater -->
-            <div class="images_home">
-            <img src="images/w_chinese.jpg" alt="Yi Dance"/>
+          <div class = "dances">
+            <a href="#"><div class="expander">Chinese Folk Dance</div></a>
+            <div class="content">
+              <figure>
+                        <!-- Source: https://www.facebook.com/cornellAmber/photos/a.812027548886467/989798941109326/?type=3&theater -->
+                        <div class="center">
+                        <img id = "folk" src="images/w_chinese.jpg" alt="Yi Dance"/>
+                        </div>
+                        <figcaption>Source: <cite><a href="https://www.facebook.com/cornellAmber/photos/a.812027548886467/989798941109326/?type=3&theater">Amber Dance Troupe</a></cite></figcaption>
+                      </figure>
+                      <p>Chinese Folk Dance / 中国民族舞</p>
+                      <p> Time: Every Friday 4-6pm till the last day of class</p>
+                      <p> Location: WSH Garden Room</p>
+
             </div>
-            <figcaption>Source: <cite><a href="https://www.facebook.com/cornellAmber/photos/a.812027548886467/989798941109326/?type=3&theater">Amber Dance Troupe</a></cite></figcaption>
-          </figure>
+
+            <a href="#"><div class="expander">Jazz Dance</div></a>
+            <div class="content">
+              <figure>
+                        <!-- Source: https://www.facebook.com/cornellAmber/photos/a.780168882072334/780168995405656/?type=3&theater -->
+                        <div class="center">
+                        <img id  = "jazz" src="images/w_jazz.jpg" alt="Yi Dance"/>
+                        </div>
+                        <figcaption>Source: <cite><a href="https://www.facebook.com/cornellAmber/photos/a.780168882072334/780168995405656/?type=3&theater">Amber Dance Troupe</a></cite></figcaption>
+                      </figure>
+                      <p>Jazz Dance / 爵士舞</p>
+                      <p> Time: Every Saturday 8-9:30pm till the last day of class</p>
+                      <p> Location: Dance Studio in Noyes Basement</p></div>
 
 
-          <h4>Jazz Dance / 爵士舞</h4>
-          <p> <strong>Time:</strong>  Saturday 8:00-9:30pm </p>
-          <p> <strong>Location:</strong> Dance Studio in Noyes Basement on West Campus</p>
-          <figure>
-            <!-- Source: https://www.facebook.com/cornellAmber/photos/a.780168882072334/780168995405656/?type=3&theater -->
-            <div class="images_home">
-            <img src="images/w_jazz.jpg" alt="Yi Dance"/>
-            </div>
-            <figcaption>Source: <cite><a href="https://www.facebook.com/cornellAmber/photos/a.780168882072334/780168995405656/?type=3&theater">Amber Dance Troupe</a></cite></figcaption>
-          </figure>
 
+            <a href="#"><div class="expander">Classic Dance</div></a>
 
-          <h4>Classic Ballet / 古典芭蕾</h4>
-          <p><strong>Time:</strong> Sunday 9:00-11:00am</p>
-          <p> <strong> Location:</strong> Willard Straight Hall 601</p>
-          <figure>
-            <!--https://www.facebook.com/cornellAmber/photos/a.781816435240912/2178093195613222/?type=3&theater -->
-            <div class="images_home">
-            <img src="images/w_classic.jpg" alt="Yi Dance"/>
-            </div>
-            <figcaption>Source: <cite><a href="https://www.facebook.com/cornellAmber/photos/a.781816435240912/2178093195613222/?type=3&theater">Amber Dance Troupe</a></cite></figcaption>
-          </figure>
+            <div class="content"><figure>
+                        <!--https://www.facebook.com/cornellAmber/photos/a.781816435240912/2178093195613222/?type=3&theater -->
+                        <div class="center">
+                        <img id = "classic" src="images/w_classic.jpg" alt="Yi Dance"/>
+                        </div>
+                        <figcaption>Source: <cite><a href="https://www.facebook.com/cornellAmber/photos/a.781816435240912/2178093195613222/?type=3&theater">Amber Dance Troupe</a></cite></figcaption>
+                      </figure>
+                      <p>Classic Ballet / 古典芭蕾</p>
+                      <p>Time: Every Sunday 9-11am till the last day of class</p>
+                      <p> Location: WSH 601</p>
+                    </div>
 
 
           <h5> Contact Us </h5>
