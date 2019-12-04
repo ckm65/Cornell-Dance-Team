@@ -31,6 +31,7 @@ nav ul {
 nav li {
   list-style: none;
   padding-right:57px;
+
 }
 
 nav ul {
@@ -38,12 +39,23 @@ nav ul {
   padding: 20px;
   justify-content: center;
 }
+
 nav li a {
   text-decoration: none;
   padding: 13px;
   border-style: solid;
   border-color:#49989c;
   border-spacing: 20px;
+}
+
+nav li p{
+  display: block;
+  font-size:.95em;
+  border: 1px solid;
+  padding: .4em 1em;
+  border-radius: 1.5em;
+  margin: .25em;
+  color: #49989c;
 }
 
 h1 {
@@ -68,10 +80,20 @@ h3 {
     color: white;
     text-align: center;
     text-decoration:black underline;
-    font-size: 25px;
+    font-size: 30px;
     font-family:garamond;
     padding: 0;
     background-color:#49989c;
+}
+h4 {
+    color: #49989c;
+    text-align: center;
+    text-decoration:rgb(24, 68, 142) underline;
+    font-size: 30px;
+    font-family:garamond;
+    padding: 0;
+    background-color:#f8f8f8;
+    justify-content: center;
 }
 h5 {
     color: #49989c;
@@ -94,11 +116,69 @@ li {
     text-align:center;
     font-size: 15px;
     padding:0;
+
 }
+.instructors_1{
+    display:flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    padding: 0px;
+    margin:0;
+    align-items: center;
+}
+
+.instructors_1 p{
+    text-align:center;
+    font-size: 12px;
+    padding:0;
+    align-items: center;
+
+}
+.instructors_1 h4{
+    text-align: center;
+    font-size: 30px;
+    justify-content: center;
+    display:flex;
+    color:#f8f8f8;
+    background-color: black;
+
+}
+.instructors_2 p{
+    text-align:center;
+    font-size: 12px;
+    padding:0;
+    align-items: center;
+
+}
+.instructors_2 h4{
+    text-align: center;
+    font-size: 30px;
+    justify-content: center;
+    display:flex;
+    color:#f8f8f8;
+    background-color: black;
+}
+
+.president p{
+    display:flex;
+    flex-direction:column;
+    text-align:center;
+    justify-content: center;
+
+}
+
 em{
     color:black;
     font-size:15px;
     padding:0;
+}
+.instructors_2 {
+        display:flex;
+        flex-direction:row;
+        flex-wrap:nowrap;
+        text-align: center;
+        text-align-last: left;
+
 }
 figcaption {
   text-align: center;
@@ -193,6 +273,7 @@ option:hover{
   color: white;
 }
 
+
 button:hover{
   background-color: #49989c;
   border-color: #49989c;
@@ -243,6 +324,13 @@ button:hover{
   font-size: 16px;
   margin-top: 5px;
 }
+
+.dropdownContent{
+  display : none;
+}
+
+#dropdown:hover .dropdownContent{display:block;}
+
 
 @media (max-width: 600px){
 
