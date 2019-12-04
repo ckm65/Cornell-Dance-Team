@@ -1,4 +1,4 @@
-$(document).ready(function(){
+$(document).ready(function () {
   var slides= [
     "images/showcase1.jpg",
     "images/showcase2.jpg",
@@ -29,4 +29,9 @@ $(document).ready(function(){
       $("#slideshowPhoto").attr("src",slides[index]);
     }
   })
-})
+    $('.content').hide();
+    $('.expander').click(function () {
+        $(this).parent().next().slideToggle(200);
+    });
+    $('.content').slideUp(200);
+});
