@@ -31,6 +31,14 @@ $(document).ready(function () {
     }
   })
 
+  // WOrkshops interactivity
+
+  $('.content').hide();
+  $('.expander').click(function () {
+      $(this).parent().next().slideToggle(200);
+  });
+  $('.content').slideUp(200);
+
 
   $("#apply_form").on("submit",function(){
     console.log("hello");
