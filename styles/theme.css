@@ -209,6 +209,15 @@ p {
   margin: 0 auto;
 }
 
+.error{
+  background-color: #49989c;
+  color: white;
+  display: inline-block;
+  font-weight: bold;
+  padding: 2px 5px 2px 2px;
+  margin-top: 5px;
+}
+
 .hidden{
   display: none;
 }
@@ -225,6 +234,10 @@ p {
   width: 100%;
   margin-bottom: 10px;
   font-weight: bold;
+}
+
+select{
+  display: block;
 }
 
 .text_input,textarea{

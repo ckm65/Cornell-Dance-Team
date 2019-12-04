@@ -1,5 +1,5 @@
 $(document).ready(function () {
-// gallery interactivity //
+  // gallery interactivity //
   var slides= [
     "images/showcase1.jpg",
     "images/showcase2.jpg",
@@ -29,68 +29,64 @@ $(document).ready(function () {
       index = index + 1;
       $("#slideshowPhoto").attr("src",slides[index]);
     }
-//toggle interactivity//
-    $('.content').hide();
-    $('.expander').click(function () {
-        $(this).parent().next().slideToggle(200);
-    });
-    $('.content').slideUp(200);
-    $("#apply_form").on("submit", function() {
-        var formValid = true;
+  })
 
-// form validation //
+
+  $("#apply_form").on("submit",function(){
+    console.log("hello");
+    var formValid = true;
+
+    // form validation //
     if ($("#name").prop("validity").valid ) {
-        $("#name_error").addClass("hidden");
+      $("#name_error").addClass("hidden");
     } else {
-        $("#name_error").removeClass("hidden");
-            formValid = false;
+      $("#name_error").removeClass("hidden");
+      formValid = false;
     }
 
-    if ($("#year").prop("validity").valid ) {
-        $(".year_error").addClass("hidden");
+    if ($("#year_place_holder").is(':checked') ) {
+      $("#year_error").removeClass("hidden");
+      formValid = false;
     } else {
-        $("#year_error").removeClass("hidden");
-            formValid = false;
+      $("#year_error").addClass("hidden");
     }
 
-    if ($("#cals").is(':checked') || $("#coe").is(':checked') || $("#aap").is(':checked') || $("#ilr").is(':checked') || $("#hoe").is(':checked') || $("#johnson").is(':checked')){
-
-        $(".college_error").addClass("hidden");
+    if ($("#cas").is(':checked') || $("#cals").is(':checked') || $("#coe").is(':checked') || $("#aap").is(':checked') || $("#ilr").is(':checked') || $("#hoe").is(':checked') || $("#johnson").is(':checked')){
+      $("#college_error").addClass("hidden");
     } else {
-        $("#college_error").removeClass("hidden");
-            formValid = false;
+      $("#college_error").removeClass("hidden");
+      formValid = false;
     }
 
     if ($("#motivation").prop("validity").valid ) {
-        $(".motivation_error_noinput").addClass("hidden");
-    } else if ($("#motivation").prop("validity").valid ) {
-        $(".motivation_error_shortinput").addClass("hidden");
-    } else {
-        $("#motivation_error_noinput").removeClass("hidden");
-            formValid = false;
-        $("#motivation_error_shortinput").removeClass("hidden");
-            formValid = false;
+      $("#motivation_error_noinput").addClass("hidden");
+      $("#motivation_error_shortinput").addClass("hidden");
+    } else if ($("#motivation").val().length == 0 ) {
+      $("#motivation_error_noinput").removeClass("hidden");
+      formValid = false;
+    } else if ($("#motivation").val().length <50) {
+      $("#motivation_error_shortinput").removeClass("hidden");
+      formValid = false;
     }
 
     if ($("#president").is(':checked') || $("#pubicity").is(':checked') || $("#treasury").is(':checked') || $("#logistics").is(':checked') || $("#social").is(':checked')){
-
-        $(".position_error").addClass("hidden");
+      $("#position_error").addClass("hidden");
     } else {
-        $("#position_error").removeClass("hidden");
-            formValid = false;
+      $("#position_error").removeClass("hidden");
+      formValid = false;
     }
 
     if ($("#reason").prop("validity").valid ) {
-        $(".reason_error_noinput").addClass("hidden");
-    } else if ($("#motivation").prop("validity").valid ) {
-        $(".reason_error_shortinput").addClass("hidden");
-    } else {
-        $("#reason_error_noinput").removeClass("hidden");
-            formValid = false;
-        $("#reason_error_shortinput").removeClass("hidden");
-            formValid = false;
+      $("#reason_error_noinput").addClass("hidden");
+      $("#reason_error_shortinput").addClass("hidden");
+    } else if ($("#reason").val().length == 0 ) {
+      $("#reason_error_noinput").removeClass("hidden");
+      formValid = false;
+    } else if ($("#reason").val().length <50) {
+      $("#reason_error_shortinput").removeClass("hidden");
+      formValid = false;
     }
-        return formValid
-    });
-});
+
+    return formValid;
+  });
 });
