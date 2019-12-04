@@ -31,6 +31,7 @@ nav ul {
 nav li {
   list-style: none;
   padding-right:57px;
+
 }
 
 nav ul {
@@ -38,12 +39,23 @@ nav ul {
   padding: 20px;
   justify-content: center;
 }
+
 nav li a {
   text-decoration: none;
   padding: 13px;
   border-style: solid;
   border-color:#49989c;
   border-spacing: 20px;
+}
+
+nav li p{
+  display: block;
+  font-size:.95em;
+  border: 1px solid;
+  padding: .4em 1em;
+  border-radius: 1.5em;
+  margin: .25em;
+  color: #49989c;
 }
 
 h1 {
@@ -260,6 +272,12 @@ option:hover{
   border-color: #49989c;
   color: white;
 }
+
+.dropdownContent{
+  display : none;
+}
+
+#dropdown:hover .dropdownContent{display:block;}
 
 @media (max-width: 600px){
 
