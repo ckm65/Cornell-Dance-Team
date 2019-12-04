@@ -28,5 +28,62 @@ $(document).ready(function(){
       index = index + 1;
       $("#slideshowPhoto").attr("src",slides[index]);
     }
+
+    // form validation //
+    $("#apply_form").on("submit", function() {
+        var formValid = true;
+
+    if ($("#name").prop("validity").valid ) {
+        $(".name_error").addClass("hidden");
+    } else {
+        $("#name_error").removeClass("hidden");
+            formValid = false;
+    }
+
+    if ($("#year").prop("validity").valid ) {
+        $(".year_error").addClass("hidden");
+    } else {
+        $("#year_error").removeClass("hidden");
+            formValid = false;
+    }
+
+    if ($("#cals").is(':checked') || $("#coe").is(':checked') || $("#aap").is(':checked') || $("#ilr").is(':checked') || $("#hoe").is(':checked') || $("#johnson").is(':checked')){
+
+        $(".college_error").addClass("hidden");
+    } else {
+        $("#college_error").removeClass("hidden");
+            formValid = false;
+    }
+
+    if ($("#motivation").prop("validity").valid ) {
+        $(".motivation_error_noinput").addClass("hidden");
+    } else if ($("#motivation").prop("validity").valid ) {
+        $(".motivation_error_shortinput").addClass("hidden");
+    } else {
+        $("#motivation_error_noinput").removeClass("hidden");
+            formValid = false;
+        $("#motivation_error_shortinput").removeClass("hidden");
+            formValid = false;
+    }
+
+    if ($("#president").is(':checked') || $("#pubicity").is(':checked') || $("#treasury").is(':checked') || $("#logistics").is(':checked') || $("#social").is(':checked')){
+
+        $(".position_error").addClass("hidden");
+    } else {
+        $("#position_error").removeClass("hidden");
+            formValid = false;
+    }
+
+    if ($("#reason").prop("validity").valid ) {
+        $(".reason_error_noinput").addClass("hidden");
+    } else if ($("#motivation").prop("validity").valid ) {
+        $(".reason_error_shortinput").addClass("hidden");
+    } else {
+        $("#reason_error_noinput").removeClass("hidden");
+            formValid = false;
+        $("#reason_error_shortinput").removeClass("hidden");
+            formValid = false;
+    }
+      return formValid
   })
 })
