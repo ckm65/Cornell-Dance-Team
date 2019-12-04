@@ -26,7 +26,7 @@ nav ul {
   justify-content: center;
 }
 .locate{
-    text-align:right;
+  text-align:right;
 }
 nav li {
   list-style: none;
@@ -58,6 +58,25 @@ nav li p{
   color: #49989c;
 }
 
+nav .dropdownBar {
+  position: absolute;
+  border-top-width: 0px;
+  display: flex;
+  flex-direction: column;
+  padding: 0;
+}
+
+nav .dropdownBar li a {
+  border-left-width: 0px;
+  border-top: 1px solid #49989c;
+  background-color: white;
+  color: #49989c;
+}
+
+nav li a:hover{
+  text-decoration: underline;
+}
+
 h1 {
   color: black;
   padding-left:300px;
@@ -68,41 +87,41 @@ h1 {
   display:block;
 }
 h2 {
-    color: white;
-    text-align: center;
-    text-decoration:black underline;
-    font-size: 30px;
-    font-family:garamond;
-    padding: 0;
-    background-color:#49989c;
+  color: white;
+  text-align: center;
+  text-decoration:black underline;
+  font-size: 30px;
+  font-family:garamond;
+  padding: 0;
+  background-color:#49989c;
 }
 h3 {
-    color: white;
-    text-align: center;
-    text-decoration:black underline;
-    font-size: 30px;
-    font-family:garamond;
-    padding: 0;
-    background-color:#49989c;
+  color: white;
+  text-align: center;
+  text-decoration:black underline;
+  font-size: 30px;
+  font-family:garamond;
+  padding: 0;
+  background-color:#49989c;
 }
 h4 {
-    color: #49989c;
-    text-align: center;
-    text-decoration:rgb(24, 68, 142) underline;
-    font-size: 30px;
-    font-family:garamond;
-    padding: 0;
-    background-color:#f8f8f8;
-    justify-content: center;
+  color: #49989c;
+  text-align: center;
+  text-decoration:rgb(24, 68, 142) underline;
+  font-size: 30px;
+  font-family:garamond;
+  padding: 0;
+  background-color:#f8f8f8;
+  justify-content: center;
 }
 h5 {
-    color: #49989c;
-    text-align: center;
-    text-decoration:white underline;
-    font-size: 30px;
-    font-family:garamond;
-    padding: 0;
-    background-color:black;
+  color: #49989c;
+  text-align: center;
+  text-decoration:white underline;
+  font-size: 30px;
+  font-family:garamond;
+  padding: 0;
+  background-color:black;
 }
 li {
   color: black;
@@ -113,71 +132,71 @@ li {
 
 }
 .contact{
-    text-align:center;
-    font-size: 15px;
-    padding:0;
+  text-align:center;
+  font-size: 15px;
+  padding:0;
 
 }
 .instructors_1{
-    display:flex;
-    flex-direction:row;
-    flex-wrap: nowrap;
-    padding: 0px;
-    margin:0;
-    align-items: center;
+  display:flex;
+  flex-direction:row;
+  flex-wrap: nowrap;
+  padding: 0px;
+  margin:0;
+  align-items: center;
 }
 
 .instructors_1 p{
-    text-align:center;
-    font-size: 12px;
-    padding:0;
-    align-items: center;
+  text-align:center;
+  font-size: 12px;
+  padding:0;
+  align-items: center;
 
 }
 .instructors_1 h4{
-    text-align: center;
-    font-size: 30px;
-    justify-content: center;
-    display:flex;
-    color:#f8f8f8;
-    background-color: black;
+  text-align: center;
+  font-size: 30px;
+  justify-content: center;
+  display:flex;
+  color:#f8f8f8;
+  background-color: black;
 
 }
 .instructors_2 p{
-    text-align:center;
-    font-size: 12px;
-    padding:0;
-    align-items: center;
+  text-align:center;
+  font-size: 12px;
+  padding:0;
+  align-items: center;
 
 }
 .instructors_2 h4{
-    text-align: center;
-    font-size: 30px;
-    justify-content: center;
-    display:flex;
-    color:#f8f8f8;
-    background-color: black;
+  text-align: center;
+  font-size: 30px;
+  justify-content: center;
+  display:flex;
+  color:#f8f8f8;
+  background-color: black;
 }
 
 .president p{
-    display:flex;
-    flex-direction:column;
-    text-align:center;
-    justify-content: center;
+  display:flex;
+  flex-direction:column;
+  text-align:center;
+  justify-content: center;
 
 }
 
 em{
-    color:black;
-    font-size:15px;
-    padding:0;
+  color:black;
+  font-size:15px;
+  padding:0;
 }
 .instructors_2 {
-        display:flex;
-        flex-direction:row;
-        flex-wrap:nowrap;
-        text-align: center;
-        text-align-last: left;
+  display:flex;
+  flex-direction:row;
+  flex-wrap:nowrap;
+  text-align: center;
+  text-align-last: left;
 
 }
 figcaption {
@@ -219,7 +238,7 @@ p {
 }
 
 .hidden{
-  display: none;
+  display: none !important;
 }
 
 .form_block{

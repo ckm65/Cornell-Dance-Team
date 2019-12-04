@@ -41,7 +41,6 @@ $(document).ready(function () {
 
 
   $("#apply_form").on("submit",function(){
-    console.log("hello");
     var formValid = true;
 
     // form validation //
@@ -97,4 +96,12 @@ $(document).ready(function () {
 
     return formValid;
   });
+
+  $("#eventNav").on("click", function () {
+    if ($("#eventDropdown").is(':visible')){
+      $("#eventDropdown").addClass("hidden");
+    }else{
+      $("#eventDropdown").removeClass("hidden");
+    }
+  })
 });
