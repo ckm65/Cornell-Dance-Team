@@ -137,6 +137,11 @@ li {
   list-style-position: inside;
 
 }
+
+.expander h4:hover{
+  font-size: 2.2rem;
+
+}
 .contact{
   text-align:center;
   font-size: 15px;
