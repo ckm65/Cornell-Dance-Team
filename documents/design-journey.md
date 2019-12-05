@@ -534,6 +534,7 @@ We are also waiting for more information to fill in on workshop and performance 
 ## Additional Comments (Milestone 3)
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.
 
+Because our client no longer has any performance and social events left for this semester, and the date for showcase hasn't been decided yet, we used past performance and social event information for the sake of this project.
 
 ---
 
