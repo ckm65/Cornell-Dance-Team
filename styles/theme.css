@@ -18,7 +18,6 @@ nav ul li a {
   margin: .25em;
 }
 nav ul {
-  margin: 0;
   padding: 10px;
   list-style-type: none;
   display: flex;
@@ -30,19 +29,17 @@ nav ul {
 }
 nav li {
   list-style: none;
-  padding-right:57px;
-
+  margin-top: 10px;
+  padding-right: 15px;
 }
 
 nav ul {
   display: flex;
-  padding: 20px;
   justify-content: center;
 }
 
 nav li a {
   text-decoration: none;
-  padding: 13px;
   border-style: solid;
   border-color:#49989c;
   border-spacing: 20px;
@@ -73,17 +70,26 @@ nav .dropdownBar li a {
   color: #49989c;
 }
 
+nav .dropdownBar li{
+  padding-right: 0;
+  margin: 5px 0;
+}
+
 nav li a:hover{
   text-decoration: underline;
 }
 
+#eventDropdown{
+  background-color: #f8f8f8;
+}
+
 h1 {
   color: black;
-  padding-left:300px;
   font-family:cursive;
   font-size: 70px;
   text-decoration: #49989c underline;
-  margin:auto;
+  text-align: center;
+  margin: 0 auto;
   display:block;
 }
 h2 {
@@ -121,7 +127,7 @@ h5 {
   font-size: 30px;
   font-family:garamond;
   padding: 0;
-  background-color:black;
+  background-color:#dbdbdb;
 }
 li {
   color: black;
@@ -158,8 +164,8 @@ li {
   font-size: 30px;
   justify-content: center;
   display:flex;
-  color:#f8f8f8;
-  background-color: black;
+  color:#49989c;
+  background-color: #f8f8f8;
 
 }
 .instructors_2 p{
@@ -174,8 +180,8 @@ li {
   font-size: 30px;
   justify-content: center;
   display:flex;
-  color:#f8f8f8;
-  background-color: black;
+  color:#49989c;
+  background-color: #f8f8f8;
 }
 
 .president p{
@@ -204,7 +210,7 @@ figcaption {
   justify-content: center;
   font-size: 10px;
 }
-.images_home {
+.images_home, .topimage {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -364,21 +370,60 @@ button:hover{
 #dropdown:hover .dropdownContent{display:block;}
 
 
-@media (max-width: 600px){
-
-  .center{
-    flex-direction: column;
+@media (max-width: 800px){
+  nav{
+    width:100%;
+    margin: 0 auto;
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
   }
+
   nav ul{
     display: flex;
-    list-style-type: none;
     flex-wrap: wrap;
+    padding: 0;
   }
 
-  nav li {
-    display:flex;
-    flex-direction: column;
-    width:35%;
+  nav ul li{
+    width: 40%;
+    display: inline-block;
+    text-align: center;
+    border: none;
+  }
+
+  nav ul li a{
+    width: 80%;
+    display: block;
+  }
+
+  h1,h2,h3,h4,h5{
+    display: block;
+    width: 100%;
+  }
+
+  .images_home, .topimage, .instructors_1, .instructors_2, .row1, .row2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
     text-align: center;
   }
+
+  .images_home figure, .instructors_1 figure, .instructors_2 figure, .row1 figure, .row2 figure {
+    width: 100%;
+    align-self: center;
+  }
+
+  .topimage figure{
+    flex-grow: 1;
+    align-self: center;
+    max-width: 100%;
+  }
+
+  img{
+    width: 100%;
+    height: auto;
+    text-align: center;
+  }
+
 }
