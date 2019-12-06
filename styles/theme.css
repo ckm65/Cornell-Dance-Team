@@ -1,5 +1,5 @@
 body {
-  font-family:sans-serif;
+  font-family:Tahoma, Geneva, sans-serif;
 }
 
 nav ul li a:link, nav ul li a:visited {
@@ -85,7 +85,7 @@ nav li a:hover{
 
 h1 {
   color: black;
-  font-family:cursive;
+  font-family:Tahoma, Geneva, sans-serif;
   font-size: 70px;
   text-decoration: #49989c underline;
   text-align: center;
@@ -95,19 +95,17 @@ h1 {
 h2 {
   color: white;
   text-align: center;
-  text-decoration:black underline;
   font-size: 30px;
   font-family:garamond;
-  padding: 0;
+  padding: 10px 0;
   background-color:#49989c;
 }
 h3 {
   color: white;
   text-align: center;
-  text-decoration:black underline;
+  padding: 10px 0;
   font-size: 30px;
-  font-family:garamond;
-  padding: 0;
+  font-family:Tahoma, Geneva, sans-serif;
   background-color:#49989c;
 }
 h4 {
@@ -116,18 +114,19 @@ h4 {
   text-decoration:rgb(24, 68, 142) underline;
   font-size: 30px;
   font-family:garamond;
-  padding: 0;
   background-color:#f8f8f8;
   justify-content: center;
+  margin-top: 0;
 }
+
 h5 {
   color: #49989c;
   text-align: center;
-  text-decoration:white underline;
+  padding: 15px 0 50px 0;
   font-size: 30px;
   font-family:garamond;
-  padding: 0;
-  background-color:#dbdbdb;
+  background-color:#ececec;
+  margin-bottom: 0;
 }
 li {
   color: black;
@@ -138,30 +137,84 @@ li {
 
 }
 
+.index_text{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  flex-wrap: wrap;
+}
+
+.textblock{
+  display: flex;
+  width: 25%;
+  text-align: left;
+  flex-wrap: wrap;
+  margin: 30px;
+  align-content: flex-start;
+}
+
+.textblock h2{
+  display: inline-block;
+  width: 100%;
+  margin: 0 auto;
+  align-self: center;
+}
+
+.textblock ul {
+  width: 100%;
+  margin: 18px auto 0px auto;
+  padding: 0;
+}
+
+.textblock ul li{
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+.textblock p{
+  text-align: left;
+  font-size: 18px;
+}
+
 .expander h4{
   background-color: white;
 
 }
 
 .expander h4:hover{
-  font-size: 2.2rem;
-  color: black;
-
-
+  background-color: #49989c;
+  color: white;
 }
 .contact{
-  text-align:center;
-  font-size: 15px;
-  padding:0;
-
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  flex-wrap: wrap;
+  background-color: #ececec;
 }
+
+.clubemail, .peopleemail{
+  display: flex;
+  width: 40%;
+  text-align: left;
+  flex-wrap: wrap;
+  align-content: flex-start;
+}
+
+.clubemail p, .peopleemail p{
+  margin:0 10px 20px 0;
+}
+
 .instructors_1{
   display:flex;
   flex-direction:row;
   flex-wrap: nowrap;
   padding: 0px;
-  margin:0;
+  margin:0 0 60px 0;
   align-items: center;
+  justify-content: center;
 }
 
 .instructors_1 p{
@@ -214,8 +267,8 @@ em{
   flex-direction:row;
   flex-wrap:nowrap;
   text-align: center;
-  text-align-last: left;
-
+  justify-content: center;
+  margin: 0 0 60px 0;
 }
 figcaption {
   text-align: center;
@@ -247,12 +300,8 @@ p {
 }
 
 .error{
-  background-color: #49989c;
-  color: white;
+  color: red;
   display: inline-block;
-  font-weight: bold;
-  padding: 2px 5px 2px 2px;
-  margin-top: 5px;
 }
 
 .hidden{
@@ -381,6 +430,25 @@ button:hover{
 
 #dropdown:hover .dropdownContent{display:block;}
 
+.content{
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+@media (max-width: 1100px){
+  .images_home, .instructors_1, .instructors_2, .row1, .row2{
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    text-align: center;
+  }
+
+  .instructors_1 figure, .instructors_2 figure, .row1 figure, .row2 figure {
+    width: 100%;
+    align-self: center;
+  }
+
+}
 
 @media (max-width: 800px){
   nav{
@@ -407,6 +475,11 @@ button:hover{
   nav ul li a{
     width: 80%;
     display: block;
+  }
+
+  nav .dropdownBar li{
+    display: block;
+    width: 90%;
   }
 
   h1,h2,h3,h4,h5{
@@ -436,6 +509,26 @@ button:hover{
     width: 100%;
     height: auto;
     text-align: center;
+  }
+
+  .textblock{
+    display: flex;
+    width: 90%;
+    margin: auto;
+  }
+
+  .clubemail, .peopleemail{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+
+  .clubemail p, .peopleemail p, .clubemail address, .peopleemail address{
+    display: block;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 5px;
   }
 
 }
