@@ -243,7 +243,7 @@ Need/Want: [Non Club member - Collaborator]
 
 2. You want to attend a workshop, but you don't know when and where it is. Find the time and location for the next workshop.
 
-3. You are part of a band and you want to collaborate with Amber Dance Troupe. Navigate the website to find out who to contact.
+3. You are very interested in Amber, and you want to see some past photos of the club.
 
 4. It's the spring and you want to find more things to do. You are interested in attending the annual showcase. Navigate to get more information on the event.
 
