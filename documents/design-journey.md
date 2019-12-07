@@ -543,6 +543,14 @@ Because our client no longer has any performance and social events left for this
 ## Changes Based on Lab 13 Peer Feedback (Final Submission)
 > What changes did you make to your design based on your peers' feedback?
 
+- add more padding to each section, title, and div
+- change margins on pages to utilize more visual design strategies
+- center photos on E-Board page
+- remove font size changes on workshop toggle
+- align text and photo on every page
+- make form validation red
+- find a new font for h1
+- remove white space from footer
 
 ## User Testing
 > If you conducted user testing in Milestone 1, you only need to user test 2 more users. Otherwise, you must conduct user testing with 4 users.

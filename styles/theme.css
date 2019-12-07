@@ -1,5 +1,5 @@
 body {
-  font-family:Tahoma, Geneva, sans-serif;
+  font-family:Verdana, Geneva, sans-serif;
 }
 
 nav ul li a:link, nav ul li a:visited {
@@ -85,7 +85,7 @@ nav li a:hover{
 
 h1 {
   color: black;
-  font-family:Tahoma, Geneva, sans-serif;
+  font-family:Verdana, Geneva, sans-serif;
   font-size: 70px;
   text-decoration: #49989c underline;
   text-align: center;
@@ -95,8 +95,8 @@ h1 {
 h2 {
   color: white;
   text-align: center;
-  font-size: 30px;
-  font-family:garamond;
+  font-size: 25px;
+  font-family:Verdana, Geneva, sans-serif;
   padding: 10px 0;
   background-color:#49989c;
 }
@@ -104,33 +104,34 @@ h3 {
   color: white;
   text-align: center;
   padding: 10px 0;
-  font-size: 30px;
-  font-family:Tahoma, Geneva, sans-serif;
+  font-size: 25px;
+  font-family:Verdana, Geneva, sans-serif;
   background-color:#49989c;
 }
 h4 {
   color: #49989c;
   text-align: center;
   text-decoration:rgb(24, 68, 142) underline;
-  font-size: 30px;
-  font-family:garamond;
+  font-size: 20px;
+  font-family:Verdana, Geneva, sans-serif;
   background-color:#f8f8f8;
   justify-content: center;
-  margin-top: 0;
+  margin-top: 80px;
+  margin-bottom: 30px;
 }
 
 h5 {
   color: #49989c;
   text-align: center;
   padding: 15px 0 50px 0;
-  font-size: 30px;
-  font-family:garamond;
+  font-size: 20px;
+  font-family:Verdana, Geneva, sans-serif;
   background-color:#ececec;
   margin-bottom: 0;
 }
 li {
   color: black;
-  font-family: georgia;
+  font-family: Verdana, Geneva, sans-serif;
   padding: 0;
   text-align:center;
   list-style-position: inside;
@@ -174,7 +175,8 @@ li {
 
 .textblock p{
   text-align: left;
-  font-size: 18px;
+  font-size: 15px;
+  line-height: 30px;
 }
 
 .expander h4{
@@ -212,7 +214,7 @@ li {
   flex-direction:row;
   flex-wrap: nowrap;
   padding: 0px;
-  margin:0 0 60px 0;
+  margin:0 0 85px 0;
   align-items: center;
   justify-content: center;
 }
@@ -226,27 +228,28 @@ li {
 }
 .instructors_1 h4{
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
   justify-content: center;
   display:flex;
   color:#49989c;
   background-color: #f8f8f8;
-
+  margin-top: 5px;
 }
 .instructors_2 p{
   text-align:center;
-  font-size: 12px;
+  font-size: 15px;
   padding:0;
   align-items: center;
 
 }
 .instructors_2 h4{
   text-align: center;
-  font-size: 30px;
+  font-size: 20px;
   justify-content: center;
   display:flex;
   color:#49989c;
   background-color: #f8f8f8;
+  margin-top: 5px;
 }
 
 .president p{
@@ -268,12 +271,12 @@ em{
   flex-wrap:nowrap;
   text-align: center;
   justify-content: center;
-  margin: 0 0 60px 0;
+  margin: 0 0 85px 0;
 }
 figcaption {
   text-align: center;
   justify-content: center;
-  font-size: 10px;
+  font-size: 12px;
 }
 .images_home, .topimage {
   display: flex;
@@ -286,9 +289,9 @@ img .images_home {
 
 p {
   color: black;
-  font-size: 20px;
+  font-size: 15px;
   text-align:center;
-  font-family:georgia;
+  font-family:Verdana, Geneva, sans-serif;
 }
 
 .questions{
@@ -347,21 +350,33 @@ option:hover{
 .position_explanation{
   margin: 0 auto;
   max-width: 600px;
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
 
 .position_explanation p{
   display: block;
   text-align: left;
-  font-size: 16px;
-  margin-bottom: 30px;
+  font-size: 15px;
+  margin-bottom: 25px;
+  line-height: 20px;
+}
+
+.position_explanation ul {
+  padding: 0;
+}
+
+.position_explanation ul li{
+  text-align: left;
+  margin-bottom: 5px;
+  list-style-type: circle;
+  font-size: 15px;
 }
 
 .submit{
   align-self: flex-end;
   margin-right: 25px;
   padding: 10px 15px 10px 15px;
-  font-size: 14px;
+  font-size: 15px;
   color: #49989c;
   font-weight: bold;
 }
@@ -371,7 +386,6 @@ option:hover{
   border-color: #49989c;
   color: white;
 }
-
 
 button:hover{
   background-color: #49989c;
@@ -404,7 +418,7 @@ button:hover{
 }
 
 .gallery_text p{
-  font-size: 16px;
+  font-size: 15px;
 }
 
 .row1,.row2{
@@ -420,7 +434,7 @@ button:hover{
 }
 
 .photoblock p{
-  font-size: 16px;
+  font-size: 15px;
   margin-top: 5px;
 }
 
@@ -446,6 +460,20 @@ button:hover{
   .instructors_1 figure, .instructors_2 figure, .row1 figure, .row2 figure {
     width: 100%;
     align-self: center;
+  }
+
+  .clubemail, .peopleemail{
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+  }
+
+  .clubemail p, .peopleemail p, .clubemail address, .peopleemail address{
+    display: block;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 5px;
   }
 
 }
@@ -515,20 +543,6 @@ button:hover{
     display: flex;
     width: 90%;
     margin: auto;
-  }
-
-  .clubemail, .peopleemail{
-    width: 90%;
-    display: flex;
-    flex-wrap: wrap;
-    margin-bottom: 20px;
-  }
-
-  .clubemail p, .peopleemail p, .clubemail address, .peopleemail address{
-    display: block;
-    width: 100%;
-    text-align: left;
-    margin-bottom: 5px;
   }
 
 }
