@@ -241,7 +241,7 @@ Need/Want: [Non Club member - Collaborator]
 
 1. You found a flyer that said Amber Dance Troupe is now taking applications to join. Navigate through the website to apply to be a part of the team.
 
-2. You want to attend a workshop, but you don't know when and where it is. Find the time and location for the next workshop.
+2. You want to attend a workshop, but you don't know when and where it is. Find the time and location for the workshop you are interested in attending.
 
 3. You are very interested in Amber, and you want to see some past photos of the club.
 
@@ -297,15 +297,17 @@ Sorting: the website is also serving current club members. These members are int
 ### User 1 - Testing Notes (Milestone 1)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-
 ### User 1 (Milestone 1)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+User 1 is a female from Cornell. She is a freshman and is not very familiar with the clubs on campus and was very interested in learning more about new things.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
+
+Yes, the user belongs to the target audience
 
 
 ### User 1 - **Desktop** (Milestone 1)
@@ -313,19 +315,19 @@ Sorting: the website is also serving current club members. These members are int
 
 Task: [TODO: copy task here]
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Pick one: Desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - Overall the user met my expectations. I did think that some users may be confused with the gallery page, but wanted to continue to test it before deciding to make changes to that page.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - An issue that I came across, was that the way the second task was framed was not specific enough, so the user did not know what to look for based on the initial state of the page. The tasks also did not specify any constraints for the form, but I later found that this not including that information tests the validation of the form when the user ran into this issue.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - The users performance went very smoothly and indicated that the usability of the website was acceptable
+  - The user was interested in the tasks, so it made the test more engaging and purposeful
 - **Re-design choices**
-  - TODO
+  - Need to reframe the second task
+  - Will wait to decide if the gallery should be redesigned
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
-
-...
 
 
 ### User 2 - Testing Notes (Milestone 1)
@@ -336,26 +338,27 @@ Task: [TODO: copy task here]
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-
+User 2 is also a female at Cornell. She is a freshman who is involved in athletics on campus and clubs involved in leadership. She was not as interested in learning more about this club as the first user.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
 
+Yes, user 2 is part of the target audience
 
 ### User 2 - **Mobile** (Milestone 1)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
 Task: [TODO: copy task here]
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Pick one: Mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - User 2 had very similar results to user 1, but this time I reframed the task 2 to give them which workshop to find information for and the results were better.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - This user was a little bit more serious about filling out the form and did not run into any validation errors. This user also was confused by the design on the gallery page and did not use the buttons to go through the slide show. The user was just not interested in looking at the pictures, as inferred by the expression on her face after navigated to the page. The task could be more specific to use the word browse through the pictures on the gallery page, but the interactive task should help the user put themselves in that scenario.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - I would still like to wait until completing all the user tests before deciding to change the design of the gallery. For the most part, this user also indicated that the site is usable and easy to navigate.
 - **Re-design choices**
-  - TODO
+  - N/A
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
