@@ -429,25 +429,37 @@ Task: ALL
 
 * Sketches of the mobile site:
 
-![HomePage](image/m_home.jpg)
+![Home](image/m2_home.jpg)
 
 
-![Contact](image/m_contact.jpg)
+
+![Apply](image/m2_apply.jpg)
 
 
-![Events](image/m_events.jpg)
+
+![E-Board](image/m2_eboard.jpg)
 
 
-![Gallery](image/m_gallery.jpg)
+
+![Gallery](image/m2_gallery.jpg)
 
 
-![Instructors](image/m_instructors.jpg)
+
+![Workshops](image/m2_workshops.jpg)
 
 
-![Members](image/m_members.jpg)
+
+![Performances(Events)](image/m2_events_performance.jpg)
 
 
-![Showcase](image/m_showcase.jpg)
+
+
+![Showcase(Events)](image/m2_events_showcase.jpg)
+
+
+
+
+![Social(Events)](image/m2_events_social.jpg)
 
 
 
