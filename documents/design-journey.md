@@ -781,11 +781,22 @@ Task: You want to attend a workshop, but you don't know when and where it is. Fi
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.
 
+First, since our clinet wanted a mostly informative website, we did a really good job iterating through card sorting and finding the best organization of content. We do not want to confuse users with all sorts of information about Amber Dance Troupe, but we also aim to make the website as comprehensive as possible, so that we can highlight all the awesome aspects of this club. Hence, you will see that our website is very well organized: the history and mission of the club (which our client values the most) are on the homepage, and we have different pages that show the people, the activities, the performances, the achievements, and the invitation to join. From our user testing, you can also see that the target audience has no difficulties finding any information.
+
+Following the previous point, we designed interactivities that really help potential users to gather information. For instance, because a Cornellian can be very busy and is mostly likely to be interested in one type of dance workshop, our workshop page does not feed users with information they do not need. Users can check on specific workshop information through the toggles. Meanwhile, the potential user maybe interested in the club in various ways: they may want to check out a performance, they many want to see a collection of dances by going to the showcase, they may just want to hang out with club members, or they may want to get more involved. Our event dropdown menu and application form are all tailored towards these needs. They are clear and easy to navigate.
+
+Last but not least, we did well overall in designing the look of the website. For this performing club, we tried our best to make the website as visually pleasing as possible. Our contents are well aligned and clearly separated. We also use well matched colors like green, gray, and white. While these colors represent Amber Dance Troupe, they also look very good on the website: they create a soothing but hopeful theme, and they have cultural meaning for representing ethereal people/things in Chinese history. In finding out such combination of colors and playing with it on different sections, we manage to convey relevant messages through the look of our website.
 
 > 2. Tell us about things that don't work, what you wanted to implement, or what you would do if you keep working with the client in the future. Give justifications.
 
+In the future, after our client decides the date and time for perforances and social activities, we can add more interactive feature to the website. We can make the website only display events that will happen after the day of access. This will help our client's website to look more professional and easier to navigate. User who visit the website will be able to get updated information about the club's schedule. This will further realize the goal of promoting the club through webstie.
 
 > 3. Tell us what you, as a team, learned while working on this project.
 
+As a team, we learned to help out each other and take responsibility together. When we didn't do very well on one milestone, we work hard together to make sure we get things done by the next due date. If we need help or things don't work out, we know that we should reach out to the group.
+
+We also learn to communicate efficiently. If a few team members are not in town, we make group skype calls or talk over group chat to distribute work.
+
+Before starting, we also work as a team to make sure we are on track. We check in with each other as well as update our own progress in our group chat. We agree on a time to finish our parts, and we all try our best to honor that.
 
 > 4. Tell us anything else you need us to know for when we're looking at the project.
