@@ -71,9 +71,11 @@ $(document).ready(function () {
     } else if ($("#motivation").val().length == 0 ) {
       $("#motivation_error_noinput").removeClass("hidden");
       formValid = false;
+      $("#motivation_error_shortinput").addClass("hidden");
     } else if ($("#motivation").val().length <50) {
       $("#motivation_error_shortinput").removeClass("hidden");
       formValid = false;
+      $("#motivation_error_noinput").addClass("hidden");
     }
 
     if ($("#president").is(':checked') || $("#pubicity").is(':checked') || $("#treasury").is(':checked') || $("#logistics").is(':checked') || $("#social").is(':checked')){
@@ -89,9 +91,11 @@ $(document).ready(function () {
     } else if ($("#reason").val().length == 0 ) {
       $("#reason_error_noinput").removeClass("hidden");
       formValid = false;
+      $("#reason_error_shortinput").addClass("hidden");
     } else if ($("#reason").val().length <50) {
       $("#reason_error_shortinput").removeClass("hidden");
       formValid = false;
+      $("#reason_error_noinput").addClass("hidden");
     }
 
     return formValid;
