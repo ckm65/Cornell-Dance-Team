@@ -14,16 +14,16 @@ They want an informative website, and they also want to include recruitment info
 
 > NOTE: **If you are redesigning an existing website, give us the current URL and some screenshots of the current site.** Tell us how you plan to update the site in a significant way that meets the Project 4 requirements.
 
+N/A
+
 
 ## Site's Purpose (Milestone 1)
 > Tell us the purpose of the website and what it is all about.
 
 We are making a website for Amber Dance Troupe (focusing on Chinese tradition/folk dance, contemporary dance, and jazz), and this cite will be an informative presentation of the club; it should also contain information/form for E-Members, G-Members to look over and interact with.
 
-Our client's target audience is female Cornellians who are committed to dancing. But our clients expect all these types of people to visit the site:
-  1. dancers who are interested in Amber specifically
-  2. people who have heard about the club but are looking for more information about the club
-  3. Other performing art clubs that are looking for collaboration
+Our client's target audience is female Cornellians who are committed to dancing. Our audience is targeted at females who have a passion for Chinese dance and are interested in joining the club!
+
 
 Here are some pages/information that our client expects to see:
   - information about club history
@@ -54,6 +54,7 @@ Needs/Wants: Color Scheme
   - Color scheme matches the club's color
 - **Design Ideas and Choices** [How will you meet those needs and wants?]
   - Use a bluish green (e.g. #49989c ) and white as part of design
+  - also a light grey color (#F8F8F8)
 - **Memo** [Justify your decisions; additional notes.]
   - N/A
 
@@ -66,14 +67,14 @@ Needs/Wants: Club History & interaction element
 - **Memo**
   - N/A
 
-Needs/Wants: Workshops and Instructors Information
+Needs/Wants: Workshops
 - **Needs and Wants**
   - Workshop is a big part of the club's activities, and my client expects many people to look for workshop and Instructors information together: people who are interested in the club, club members, other performing arts clubs, etc.
   - Because the club hosts 3 or 4 workshops per week, there will a big list of workshops. So, my client expects that we can sort workshops by the type of dance (tradition dance, contemporary dance, jazz).
 - **Design Ideas and Choices**
-  - Create a page on workshops and corresponding Instructors
-  - allow sorting
-  - Make sure this information is easy to navigate to on the front page
+  - Create a page on workshops
+  - toggle Information
+  - 3 style of dances listed with time and place
 - **Memo**
   - N/A
 
@@ -82,8 +83,8 @@ Needs/Wants: Events
   - The club is always invited by many other organizations, and the our client wants to show their performance schedule on their site
   - The club hosts one formal and one semi-formal event every semester; this will be for club members only
 - **Design Ideas and Choices**
-  - Create a page on performance schedule; maybe make this page interactive and can update based on the date of access (the client says we don't have to do this)
-  - Create a page on social event, talk about dates and location
+  - this will be a dropdown in the nav bar
+  - dropdown will be showcase, performances and social events
 - **Memo**
   - N/A
 
@@ -91,16 +92,18 @@ Needs/Wants: Contact
 - **Needs and Wants**
   - Our client wants to make sure that people who are interested in the club (to join or to collaborate) can contact the club
 - **Design Ideas and Choices**
-  - We can either create a page for contact info, or (according to the client's suggestion) we can put contact info in the footer
+  - we can put contact info in the footer of every page
 - **Memo**
   - N/A
 
-Needs/Wants: Eboard Member and Recruitment & interactive element
+Needs/Wants: Eboard Member page
 - **Needs and Wants**
-  - This page will be for current club members, and this page should be interactive so that members can submit application
+  - This page will be for current club members and anyone interested in joining to see who is in charge
+  - Eboard to see who who is in charge and their role in the club
 - **Design Ideas and Choices**
-  - Create a page that introduces current Eboard
-  - Add a form at the end of the page for application
+  - Create a page that introduces current Eboard members and their roles and responsibilities
+  - name, year, major
+
 - **Memo**
   - N/A
 
@@ -108,23 +111,40 @@ Needs/Wants: Annual Showcase
 - **Needs and Wants**
   - The club holds an annual showcase at the end of spring semester. This is a big event for the club.
 - **Design Ideas and Choices**
-  - Create a page on annual showcase information
+  - Create an Events page
+  - a page on annual showcase information as a dropdown from events
+  - will contain a memo about past years showcases as well as pictures
 - **Memo**
   - N/A
 
-Needs/Wants: Costume Order Form & interactive element
-- **Needs and Wants**
-  - Because the club need to order costume for members who are part of a dance performance, so it is important for the club to collect information on the costume size of each dancer.
-- **Design Ideas and Choices**
-  - Create a page for order page, and the page will be a form.
-- **Memo**
-  - N/A
+
+Needs/Wants: Performances
+  - **Needs and Wants**
+    - the club has a bunch of performances throughout the semester to promote awareness of their club as well as their Showcase
+    - for example a performance during Freshman move in day or performances in Ho plaza
+  - **Design Ideas and Choices**
+    - performances will be a page under the events dropdown in the nav bar
+    - will contain location and time of the performances
+  - **Memo**
+    - N/A
+
+Needs/Wants: Social Events
+    - **Needs and Wants**
+        - the club has a bunch of social events throughout the semester to get to know the members in the club
+        - awesome way to get to know others and connect outside of practice times
+    - **Design Ideas and Choices**
+        - social events will be a page under the events dropdown in the nav bar
+        - will contain location and time of the social events throughout the semester
+        - may contain pictures
+     - **Memo**
+        - N/A
+
 
 
 ## User(s) (Milestone 1)
 > Tell us about the users (target audience) for this website.
 
-Our overall target audience is females at Cornell University. However, our target audience is broken down into three different sectors.  The first sector is targeted at females that are already in the dance group. This allows the entire group to collaborate with each other and keep up to date on current events and competitions. The second sector is for any females at Cornell University that are interested in joining a dance group or becoming more involved in the dance world (no experience necessary). Finally, the third sector is targeted at other clubs on campus that would like to partner or promote or dance troupe. It can be targeted at other organizations that would like to get involved.
+Our overall target audience is females at Cornell University. Our audience is targeted at any females at Cornell University that are interested in joining a dance group or becoming more involved in the dance world (no experience necessary). Furthermore, our website is helpful for females that are already in the dance group. This allows the entire group to collaborate with each other and keep up to date on current events and competitions.
 
 ## Discovering Users' Needs (Milestone 1)
 
@@ -264,8 +284,17 @@ Need/Want: [Non Club member - Collaborator]
 > Come up with some idea for interactive features for your site.
 
 - Forms
+     - application form to be part of the executive board
+        - including information about each positions
+        - will state your name, year, college and why you want to be apart of Eboard
 - Gallery
-- Sorting
+    - containing pictures of past performances and members of the group
+- Dropdown for the nav bar
+    - dropdown will contain performances, showcase, and social events all under the events header
+    - allows for organization and to include multiple types of events
+- Toggle
+    - this toggle will allow users to specifically view different styles of dance particularly the ones that they are interested in
+    - prevents users from scrolling and finding information that they can't seem to other wise
 
 # Design & Evaluation
 
@@ -276,10 +305,21 @@ Need/Want: [Non Club member - Collaborator]
 > **Note:** Card sorting is used to organize your site's content. For each piece of content identified in the previous section, write a summary of that content onto a card. Now sort the cards. The grouping of cards provides you with your pages for your website. **Do not write down the pages you want and then "card sort" those. That is not card sorting.**
 
 ![card sort 1](image/cardsort1.jpeg)
-
+This card sort is broken down into a nav-bar that includes the homepage, about, workshop, instructors, and contact. The homepage will include the clubs values and a gallery. The about page will contain the history, mission and culture. Workshops will contain practice times, location, style, showcase, and ticket information. The instructors page will contain members, year, experience and age. Lastly, the contact page will include an order form, emails, and collaboration. This card sorting will reflect our clients needs and wants.
 ![card sort 2](image/cardsort2.jpeg)
-
+The card sort is broken down into the homepage, about, workshops, collaboration and contact. The homepage will include values and the gallery. The about page will contain history, mission, culture, instructors, members, age, year, experience. The workshops page will include practice times, location, style, showcase, type of dance, place and ticket information. The collaboration page will include other organizations. Finally the contact page will include the order form and emails.
 ![card sort 3](image/cardsort3.jpeg)
+This card sort is broken down into the homepage, workshops, instructors, showcase, collaboration, gallery and contact. The homepage includes about information such as the history, mission, culture and value. The workshop page includes practice times, location, and dance style. The instructors page includes members, year, experience and age. The showcase page includes time, place and ticket information. The collaborations page has other organizations. The gallery contains pictures and the contact contains order form and the emails of others.
+
+![card sort 4]( image/cardsort4.jpeg)
+
+Our final design came from card sort 4. We found that the homepage and the about page were the same thing so we decided to combine them as the homepage with the nav bar labeled HOME. Our nav bar includes home,E-board, workshops, events, gallery and a apply now page. The homepage includes images of the group as well as the dance groups key values, history and purpose. The E-board contains information on the members in the group. It includes information on their position, year, college and their name. This information is necessary for anyone who is interested in learning more about the club and wanting to contact others. The workshops page will contain a toggle bar that contains the three styles of dances. The user will be able to choose which style of dance they want to explore further and click on that page. There will be a hover interaction feature as well. This allows the user to view and organized website and won't have to scroll to find a style of dance they are specifically looking for. The events tab includes a dropdown menu of performances, showcases and social events. The performances page includes the variety of performances throughout the year. The annual showcase is the clubs really big performance. It will contain information about the event as well as past years with a bunch of pictures. The social events page will include a variety of different events throughout the year to get to know members in the group outside of dance practice. It is an awesome opportunity to connect and interact with others. Finally, the gallery will contain a slideshow of pictures the user can scroll through. These pictures will be from practices, performances or everyday lives of the individuals in the group. Finally, the apply now page will include an application to become apart of e-board. The form will contain a list of the different positions as well as an application form including why you want to be on the e-board, age, name, year and college.
+
+This card sort and design fit best with our target audience and all of the users needs.
+
+The theme for our website is inviting and should be informative towards our user audience. We utilized a blue, grey and black color scheme in order to add a calming affect to our audience. We want our designs to be clean, crips and welcoming because we want to attract new dancers to our group. Dance is very powerful and warming so we tried to incorporate that into the theme and style of our website.
+
+
 
 ## Interactivity (Milestone 1)
 > What interactive features will your site have? Describe how the interactivity connects with the needs of the clients/target audience.
@@ -288,7 +328,9 @@ Forms: part of the purpose of the website is to recruit, and that includes E-boa
 
 Photo gallery: as a performing group, our client has many photos on their past performances and practices. Since they want to promote the club, and one way to do that is to present their hard works in the past. Plus, when it comes to performing art, it is easier to show the purpose and dedication through some visual components, like photos. So, a photo gallery will help our client to better achieve another main purpose of their website: to promote the club.
 
-Sorting: the website is also serving current club members. These members are interested in different types of dances, and they need information on their own workshops and practices. Yet, these members, as Cornell students, are busy. They won't want to waste time on trying to browse through all the workshops and practice sessions every time. So, enabling a sorting function for workshops saves time for club members to better find information themselves.
+Toggle: the website is also serving current club members. These members are interested in different types of dances, and they need information on their own workshops and practices. Yet, these members, as Cornell students, are busy. They won't want to waste time on trying to browse through all the workshops and practice sessions every time. So, enabling a sorting function for workshops saves time for club members to better find information themselves.
+
+Dropdown: the website will contain a dropdown in the nav bar.This dropdown will be named events and will dropdown into three sub categories: performances, showcases, and social events. These drop downs will contain various information that the user will be able to easily navigate throughout the site.
 
 
 ## User Testing (_optional_)
