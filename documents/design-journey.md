@@ -726,11 +726,11 @@ Task: All
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
   - She thinks this is really cool, and she appreciates that she can do it.
 - **Your reflections about the user’s performance to the task**
-  -
+  - I think the testing with this user goes pretty well, and it seems like our website is easy to navigate through for a target user.
 - **Re-design choices**
-  - TODO
+  - N/A
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+  - N/A
 
 ...
 
