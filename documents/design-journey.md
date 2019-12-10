@@ -718,7 +718,7 @@ Yes, she belongs to the target audience group.
 ### User 5 - **Desktop** (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: All
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
@@ -738,33 +738,38 @@ Task: [TODO: copy task here]
 ### User 6 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![Testing Notes](image/note_6.jpg)
+
 
 ### User 6 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+The user is a freshman keen on engaging in campus through her love of dancing. She wants to maintain her chinese heritage while getting immersed in American culture
 
 2. Does the user belong to your target audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
 
+Yes, she does
 
 ### User 6 - **Mobile** (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: You want to attend a workshop, but you don't know when and where it is. Find the time and location for the workshop you are interested in attending
+
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Pick one: Mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - Immediately on seeing the site, she clicks on the workshops page and is able to get the logistical information on all the workshops. This is consistent with my expectation as it is clear on the navbar where one should find information about workshops.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - The user is pleased by how exhaustive the design is, and how it is easy to get to a page that targets specific aspects of the functionings of the club
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - Having performed the task without hesitation, I was satisfied with the website's ability to allow a seamless performance of tasks stipulated
 - **Re-design choices**
-  - TODO
+  - N/A
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+  - Given the intuitiveness, exhaustiveness and robustmness of the implementation of the website, with and intuitive design, there was no need for redesign
 
 ...
 
