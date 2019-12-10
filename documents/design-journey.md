@@ -769,13 +769,15 @@ Task: You want to attend a workshop, but you don't know when and where it is. Fi
 - **Re-design choices**
   - N/A
 - **Additional Notes**
-  - Given the intuitiveness, exhaustiveness and robustmness of the implementation of the website, with and intuitive design, there was no need for redesign
+  - Given the intuitiveness, exhaustiveness and robustness of the implementation of the website, with and intuitive design, there was no need for redesign
 
 ...
 
 
 ## Changes Based on User Testing (Final Submission)
 > What changes did you make to your design based on user testing?
+
+Since the user testing was performed after the final touches to the design was made, there were no changes done based on user testing. I think this is the way to go when seeing if changes to be made because it tests the final design rather than the progress which yields more useful results. In the case that we did not have milestone feedback it may be better to use user tests as feedback for each stage of the design process.
 
 
 ## Final Notes to the Graders (Final Submission)
