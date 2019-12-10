@@ -414,7 +414,7 @@ Task: ALL
 **Desktop Design:**
 ![Homepage](image/DesktopHome2.JPG)
 
-![Workshops](Image/DesktopWorkshops2.JPG)
+![Workshops](image/DesktopWorkshops2.JPG)
 
 ![Gallery](image/DesktopGallery2.JPG)
 
