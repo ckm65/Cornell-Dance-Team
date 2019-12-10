@@ -344,7 +344,7 @@ Dropdown: the website will contain a dropdown in the nav bar.This dropdown will 
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
-User 1 is a female from Cornell. She is a freshman and is not very familiar with the clubs on campus and was very interested in learning more about new things.
+User 1 is a female from Cornell. She is a freshman in Arts & Sciences and is not very familiar with the clubs on campus and was very interested in learning more about new things.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
@@ -355,7 +355,7 @@ Yes, the user belongs to the target audience
 ### User 1 - **Desktop** (Milestone 1)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: ALL
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: Desktop
 - **How did the user do? Did they meet your expectation?**
@@ -380,7 +380,7 @@ Task: [TODO: copy task here]
 > Using your notes from above, describe your user by answering the questions below.
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
-User 2 is also a female at Cornell. She is a freshman who is involved in athletics on campus and clubs involved in leadership. She was not as interested in learning more about this club as the first user.
+User 2 is also a female at Cornell. She is a freshman in Arts & Sciences and is involved in athletics on campus and clubs involved in leadership. She was not as interested in learning more about this club as the first user.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
@@ -390,7 +390,7 @@ Yes, user 2 is part of the target audience
 ### User 2 - **Mobile** (Milestone 1)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: ALL
 - **Did you evaluate the desktop or mobile design?**
   - Pick one: Mobile
 - **How did the user do? Did they meet your expectation?**
@@ -609,25 +609,27 @@ Because our client no longer has any performance and social events left for this
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+User 3 is a female from Cornell. She is a junior in CALS and has attended classes at other schools, so she is used to the diversity and differences of other schools. She volunteered herself to participate, so it increases a factor of interest which can be something that can yield better results.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
 
+Yes, user 3 is a part of the target audience
 
 ### User 3 - **Desktop** (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: ALL
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Pick one: Desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - Yes, user 3 met my expectations exactly how I expected all the users to respond. User 3 was able to perform task 2 when the task was reworded and the type of dance was given. This user also understood the purpose of having a slideshow gallery along with a collage of different dances. I received this answer with a follow-up question, so that I could see what was different in this user compared to the other two users. User 3 went in order down the page and was very observant. She mentioned how she went in order of the page which is how she knew to use the buttons unlike the the other two users that just scrolled directly down the page.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - There were no issues in this task and said "This is a really cool website!"
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - Since this user is older than the other two users, this could be a possible hypothesis for why user 3 was able to navigate the gallery page as she showed a difference in thought process.
 - **Re-design choices**
-  - TODO
+  - I would still like to complete one more user test before deciding if the gallery page should be changed or not.
 - **Additional Notes**
   - TODO: Justify your decisions; additional notes.
 
@@ -643,27 +645,30 @@ Task: [TODO: copy task here]
 
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+User 4 is once again a female at Cornell. She is a senior and a captain of the swim team in the College of Engineering. This user is the oldest of the other 3 users and being in engineering can produce different results in these tasks.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
 
+Yes, user 4 is part of the target audience
 
 ### User 4 - **Mobile** (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
-Task: [TODO: copy task here]
+Task: ALL
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Pick one: Mobile
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - User 4 performed very similarly to user 3 and was able to navigate the gallery page. The validations of the form worked and the form was submitted. On the second task, I decided to let the user choose which dance workshop they wanted to attend to make it more interactive and the results were the same as if the dance was just given to them
+
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - There were no issues and the tasks ran very smoothly
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  - The performance of this user let me conclude that the gallery page will remain the same and the rest of the site is easy to navigate. I have also concluded that there has to be some kind of interest for the users to be engaged in the design and contents of the site.
 - **Re-design choices**
-  - TODO
+  - N/A
 - **Additional Notes**
-  - TODO: Justify your decisions; additional notes.
+  - The user tests were performed when our website was already polished and pretty much finalized which is why re-design choices were not necessary and the usability of the site was smooth. The results were also pretty redundant and there were only 2 tasks that there were any issues which is why I didn't feel it necessary to fill out a task evaluation for each individual task.
 
 ...
 
