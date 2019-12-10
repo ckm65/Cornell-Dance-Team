@@ -412,19 +412,21 @@ Task: ALL
 > Include the final sketches for each of your pages. These sketches **must** hand-drawn.
 
 **Desktop Design:**
-![Homepage](image/desktopHome.JPG)
+![Homepage](image/desktopHome2.JPG)
 
-![Gallery](image/desktopGallery.JPG)
+![Workshops](Image/desktopWorkshops2.JPG)
 
-![Events](image/desktopEvents.JPG)
+![Gallery](image/desktopGallery2.JPG)
 
-![Showcase](image/desktopShowcase.JPG)
+![Events](image/desktopEvents2.JPG)
 
-![Instructors](image/desktopInstructors.JPG)
+![Showcase](image/desktopShowcase2.JPG)
 
-![Members](image/desktopMembers.JPG)
+![Eboard](image/desktopEboard2.JPG)
 
-![Content](image/desktopContent.JPG)
+![Performances](image/desktopPerformances2.JPG)
+
+![Application](image/desktopApply2.JPG)
 
 **Mobile Design:**
 
@@ -593,6 +595,8 @@ We are also waiting for more information to fill in on workshop and performance 
 > If you feel like you haven't fully explained your design choices, or if you want to explain some other functions in your site (such as special design decisions that might not meet the Project 4 requirements), you can use this space to justify your design choices or ask other questions about the project and process.
 
 Because our client no longer has any performance and social events left for this semester, and the date for showcase hasn't been decided yet, we used past performance and social event information for the sake of this project.
+
+
 
 ---
 
@@ -783,7 +787,7 @@ Since the user testing was performed after the final touches to the design was m
 ## Final Notes to the Graders (Final Submission)
 > 1. Give us three specific strengths of your site that sets it apart from the previous website of the client (if applicable) and/or from other websites. Think of this as your chance to argue for the things you did really well.
 
-First, since our clinet wanted a mostly informative website, we did a really good job iterating through card sorting and finding the best organization of content. We do not want to confuse users with all sorts of information about Amber Dance Troupe, but we also aim to make the website as comprehensive as possible, so that we can highlight all the awesome aspects of this club. Hence, you will see that our website is very well organized: the history and mission of the club (which our client values the most) are on the homepage, and we have different pages that show the people, the activities, the performances, the achievements, and the invitation to join. From our user testing, you can also see that the target audience has no difficulties finding any information.
+First, since our client wanted a mostly informative website, we did a really good job iterating through card sorting and finding the best organization of content. We do not want to confuse users with all sorts of information about Amber Dance Troupe, but we also aim to make the website as comprehensive as possible, so that we can highlight all the awesome aspects of this club. Hence, you will see that our website is very well organized: the history and mission of the club (which our client values the most) are on the homepage, and we have different pages that show the people, the activities, the performances, the achievements, and the invitation to join. From our user testing, you can also see that the target audience has no difficulties finding any information.
 
 Following the previous point, we designed interactivities that really help potential users to gather information. For instance, because a Cornellian can be very busy and is mostly likely to be interested in one type of dance workshop, our workshop page does not feed users with information they do not need. Users can check on specific workshop information through the toggles. Meanwhile, the potential user maybe interested in the club in various ways: they may want to check out a performance, they many want to see a collection of dances by going to the showcase, they may just want to hang out with club members, or they may want to get more involved. Our event dropdown menu and application form are all tailored towards these needs. They are clear and easy to navigate.
 
