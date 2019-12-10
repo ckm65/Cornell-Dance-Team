@@ -41,5 +41,5 @@ See the course website for a detailed citation policy with more information on u
 
 Each team member should sign their name and include today's date and time to submit **FINAL SUBMISSION**.
 
-- Full Name of Each Contributing Team Member: Yifei Zheng, Carolyn Morikawa
+- Full Name of Each Contributing Team Member: Yifei Zheng, Carolyn Morikawa, Ian Ochola
 - Date & Time: 2019/12/10 12:54
