@@ -735,7 +735,7 @@ Task: All
 ### User 6 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-![Testing Notes](image/note_6.JPG)
+![Testing Notes](image/note_6.jpg)
 
 
 ### User 6 (Final Submission)
