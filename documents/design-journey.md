@@ -339,6 +339,7 @@ Dropdown: the website will contain a dropdown in the nav bar.This dropdown will 
 ### User 1 - Testing Notes (Milestone 1)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![user1](image/user1test.jpeg)
 ### User 1 (Milestone 1)
 > Using your notes from above, describe your user by answering the questions below.
 
@@ -375,7 +376,7 @@ Task: ALL
 ### User 2 - Testing Notes (Milestone 1)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
-
+![user2](image/user2test.jpeg)
 ### User 2 (Milestone 1)
 > Using your notes from above, describe your user by answering the questions below.
 
@@ -615,6 +616,7 @@ Because our client no longer has any performance and social events left for this
 ### User 3 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![user3](image/user3test.jpeg)
 
 ### User 3 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
@@ -651,6 +653,7 @@ Task: ALL
 ### User 4 - Testing Notes (Final Submission)
 > When conducting user testing, you should take notes during the test. Place your notes here.
 
+![user4](image/user4test.jpeg)
 
 ### User 4 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
