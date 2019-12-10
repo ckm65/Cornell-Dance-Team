@@ -692,25 +692,38 @@ Task: ALL
 ### User 5 (Final Submission)
 > Using your notes from above, describe your user by answering the questions below.
 
+Because we did this test right after a dancing rehearsal, I didn't have pen and paper with me. So I typed things down on my phone, and I will just transfer them here:
+
+For task one, the user looks at the nav bar and clicks on "apply now". She reads through the description and tests the form by applying as the president. Her inputs for the last few questions didn't pass the validation, but she was able to fix them according to the error messages.
+
+For task two, I phrase the it so that the user should be looking specifically for jazz workshop. She looks over the nav bar again and goes directly to workshop page. She then clicks on the jazz subtitle, and the page toggles to show the information.
+
+For the third task, she clicks on gallery right away. She plays with the slide show a little, and she thinks it is really cool.
+
+Last task, she thinks for a bit, and decides to click on event. She then clicks on showcase from the dropdown menu.
+
+
 1. Who is your user, e.g., where does the user come from, what is the user's job, characteristics, etc.?
 
+My user is Destiny, and she is a Cornell sophomore. She is very interested in dancing, and we are involved in two swing dance clubs together. She told me that she is interested in exploring other types of dances.
 
 2. Does the user belong to your target audience of the site? (Yes / No)
 > If “No”, what’s your strategy of associating the user test results to your target audience’s needs and wants? How can your re-design choices based on the user tests make a better fit for the target audience?
 
+Yes, she belongs to the target audience group.
 
 ### User 5 - **Desktop** (Final Submission)
 > Report the results of your user's evaluation. You should explain **what the user did**, describe the user's **reaction/feedback** to the design, **reflect on the user's performance**, determine what **re-design choices** you will make. You can also add any additional comments. See the example design journey for an example of what this would look like.
 
 Task: [TODO: copy task here]
 - **Did you evaluate the desktop or mobile design?**
-  - Pick one: desktop/mobile
+  - Pick one: desktop
 - **How did the user do? Did they meet your expectation?**
-  - TODO
+  - The testing went really smoothly, and the user's performance met my expectation. She successfully completely all the tasks, even though she had to think for a few seconds before clicking on the pages. But I believe this is completely normal.
 - **User’s reaction / feedback to the design** (e.g., specific problems or issues found in the tasks)
-  - TODO
+  - She thinks this is really cool, and she appreciates that she can do it.
 - **Your reflections about the user’s performance to the task**
-  - TODO
+  -
 - **Re-design choices**
   - TODO
 - **Additional Notes**
